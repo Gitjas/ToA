@@ -58,7 +58,12 @@ LANGUAGE ~Simplified Chinese by yoshimo0417~
          ~schinese~
          ~ToA/language/schinese/install.tra~
          ~ToA/language/schinese/journal.tra~
-		 
+
+LANGUAGE ~French by Streen~
+         ~french~
+         ~ToA/language/french/setup.tra~
+         ~ToA/language/french/journal.tra~
+
 BEGIN @1 DESIGNATED 01
 REQUIRE_PREDICATE GAME_IS ~bgt eet tob bg2ee~ @393
 

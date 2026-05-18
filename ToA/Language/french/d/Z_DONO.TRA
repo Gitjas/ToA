@@ -1,0 +1,26 @@
+@0    = ~<NO TEXT>~
+@1    = ~On m'appelle <CHARNAME> et je vous apporte d'importantes nouvelles de la ville !~
+@2    = ~Nous nous rencontrons en des temps sombres, mais la courtoisie ne doit jamais être négligée, n'est-ce pas ? Je suis Donorell Seherinialus, cofondateur d'Anegh, et si je puis me permettre, monsieur, le génie de cette ville, avec Nomoran, l'un des plus puissants magiciens que j'aie connus sur la Côte des Épées. Et à qui, si je puis me permettre, ai-je l'honneur de rencontrer ?~
+@3    = ~On m'appelle Donorell, Donorell le Charmeur de Suintes. De ma bouche ne sortent que des roses parfumées... Êtes-vous fou ? Je ne pense pas que vous vous rendiez compte de la gravité de la situation dans laquelle vous vous trouvez !~
+@4    = ~Des nouvelles importantes de la ville ? Le sourire de Lathandre apparaît-il encore, peut-être, au-dessus de nous ? Laisse-t-il germer, au milieu des ténèbres et du désespoir de notre avenir, un germe de vie et d'espoir ? Tout n'est-il pas encore perdu pour nous ? Parlez, je vous en prie !~
+@5    = ~Nomoran nous a choisis pour vous aider, et nous sommes arrivés juste à temps pour participer à la bataille et prendre un tournant décisif. De plus, nous avons pu découvrir tous les plans de l'ennemi pour les prochains jours. La ville est donc sûre pour le moment.~
+@6    = ~Quelle merveilleuse nouvelle ! Je suis sans voix ! J'ai d'autant plus de nouvelles qui vont déterminer l'issue de la guerre !~
+@7    = ~En fait, je pensais que la ville serait perdue et que cela n'aurait donc aucune importance, mais maintenant tout a changé, absolument tout.~
+@8    = ~Je parie que vous aviez même de légers doutes sur les tactiques de nos ennemis, n'est-ce pas ? Je parie que vous vous êtes déjà demandé : « Pourquoi n'envoient-ils pas de renforts si la bataille est perdue ? Un élément aussi important pour l'avancée de l'Amn ne devrait pas être abandonné à la légère… » Ces considérations sont tout à fait justifiées, et je peux vous expliquer pourquoi il n'y a pas eu de renforts ; Ils n'auraient aucune chance !~
+@9    = ~Ceci m'amène au point essentiel : nous, elfes de la maison Seherinialus, avons toujours été fascinés par les montagnes et leur nature si particulière. Afin de rester informés de ce qui se passe sur la Côte des Épées, nous aimons parcourir la chaîne de montagnes entre l’Amn et la Porte de Baldur. Il y a quelques jours, l'un de mes elfes a découvert les troupes d'avant-garde de la Légion. Cette troupe était menée par Deria' Heriol, qui a eu l'audacieux projet d'arrêter la légion. Un homme courageux ! Je dis à Lathandre que son âme demeure encore ici...~
+@10   = ~Pour revenir à notre sujet ; Deria a découvert que la Légion avait déployé une sécurité excessive pour arriver jusqu'ici, mais c'était pendant qu'ils l’annulaient que j'ai compris. La Légion vient dans la grotte avec un sort de protection : deux plaques magiques contenant les instructions pour désactiver les runes de protection. Deria a tué avec ses hommes le seul magicien qui connaissait ces instructions par cœur. La Légion se retrouve donc en ville sans aucun soutien ! La dernière chose que j'ai entendue de Deria, c'est qu'ils ont fui vers le sud et tentent de traverser la ville en terrain sûr. Cela fait déjà deux jours et je crains qu'il n'y soit pas parvenu.~ 
+@11   = ~Voici ma requête : procurez-moi ces deux tablettes avec les instructions. Nous les traduirons et vous indiquerons la marche à suivre. Apparemment, les hordes de monstres sont reparties. Pourquoi la grotte est-elle sans protection si vous les rouvrez ? Je connais ces grottes et je sais qu'elles ne donnent accès à aucun passage, ni au nord ni ailleurs. Je suis certain que quelqu'un y a établi une entrée principale il y a quelque temps. Veuillez la détruire avant que la Légion ne revienne ! Prévenez-moi dès que vous aurez trouvé Deria et les tablettes avec lui.~
+
+@12   = ~Il en sera ainsi, vous pouvez en être sûr.~
+@13   = ~Je l'ai déjà trouvé, mais il est décédé, et ses compagnons ont été trompés par un démon maléfique. Malheureusement, je n'ai trouvé qu'une seule plaque ; la seconde a disparu.~
+@14   = ~Je comprends parfaitement la gravité de la situation ! Mais malgré le désespoir et l'amertume, nous ne devons pas nous laisser aller, sinon nous serons perdus avant même que la première épée ne soit levée contre nous. Ils ont dit : « Amenez-moi votre cliente ?» J'espère qu'elle est de meilleure humeur que vous.~
+@15   = ~Veuillez vous dépêcher avec les tablettes !~
+@16   = ~Vous avez trouvé les tablettes maintenant ?~
+@17   = ~Oui, voici les deux tablettes.~
+@18   = ~Non, pas encore.~
+@19   = ~Très bien ! Je les donne à Naraneleth. Dès que la situation sera sûre, il rouvrira la magie de la grotte. Avez-vous déjà vaincu le gardien ?~
+@20   = ~Oui, le gardien et ses poulets tueurs sont morts.~
+@21   = ~Pas encore, je m'en occupe.~
+@22   = ~Quel est le sort du gardien ? A-t-il été éliminé ?~
+@23   = ~Parfait ! Parlez à Naraneleth ! Il vous accompagnera.~
+@24   = ~Que les dieux vous protègent.~

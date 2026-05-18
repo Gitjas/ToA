@@ -1,0 +1,12 @@
+@0    = ~Excusez-moi, Messire <CHARNAME>, mais je dois vous parler d'une affaire urgente.~ ~Excusez-moi, Dame <CHARNAME>, mais je dois vous parler d'une affaire urgente.~
+@1    = ~Parlez à voix basse.~
+@2    = ~Je ne veux pas écouter.~
+@3    = ~Si j'ai bien compris, le capitaine Loret a discuté des manœuvres tactiques avec vous. C'est un homme bon, mais il se préoccupe parfois trop des tactiques. Il vous a expliqué comment la ville a été reprise, mais j'ai une question : avez-vous vu des citoyens ? Des gens ordinaires qui vivaient en ville ?~
+@4    = ~Pour l'instant, seulement des soldats.~
+@5    = ~Exactement. Le capitaine Loret a beau être très intelligent et capable de conquérir cette ville, il ne pense pas assez aux victimes innocentes ! Un grand nombre de citoyens sont encore retenus captifs quelque part. Je vous en supplie, sauvez-les !~
+@6    = ~Si je les trouve, j'essaierai de les ramener sains et saufs au camp.~
+@7    = ~Avez-vous retrouvé les citoyens ?~
+@8    = ~Oui, je les ai retrouvés et ramenés.~
+@9    = ~Non, malheureusement.~
+@10   = ~Je vous remercie d'avoir sauvé les citoyens de la ville ! Acceptez ceci en guise de remerciement.~
+@11   = ~J'espère que la situation se terminera bien.~ 

@@ -1,0 +1,34 @@
+@0 = ~Noble héros, un instant ! Puis-je vous parler de mon dilemme ? J'ai besoin d'aide de toute urgence !~ ~Noble héroïne, un instant ! Puis-je vous parler de mon dilemme ? J'ai besoin d'aide de toute urgence !~[ZNOMOR01]
+@1 = ~Comment puis-je vous aider, mon brave homme ?~
+@2 = ~Je n'ai aucune envie de vous écouter.~
+@3 = ~Merci de m'écouter ! Voilà ce qui m'arrive : je vis à Anegh, une ville envahie par des monstres ! Pas seulement des gobelins ou des Yuans-ti, non, ce sont des mercenaires, toutes sortes de gens, même des drows ! Hier, la ville a été prise. La plupart des habitants ont pu fuir et se réfugier à l'extérieur, mais la ville est située en haute montagne, et l'accès a été détruit par magie ! Seul moi, le magicien Nomoran, ai pu utiliser un portail dimensionnel pour me rendre à Athkatla. Mais je ne peux pas les arrêter seul. Si vous m'aidez, vous serez grandement récompensé. Qu'en dites-vous ?~ [ZNOMOR02]
+@4 = ~Voilà une aventure parfaite pour mon groupe ! En route pour la ville d'Anegh !~
+@5 = ~Ça a l'air trop compliqué, ça ne m'intéresse pas.~
+@6 = ~Préparez-vous, je vais nous téléporter à l'entrée dans les montagnes.~ [ZNOMOR03]
+@7 = ~Si vous changez d'avis, je serai là.~ [ZNOMOR04]
+@8 = ~Si vous changez d'avis, je serai là.~ [ZNOMOR05]
+@9 = ~Avez-vous changé d'avis ? Voulez-vous m'aider ?~ [ZNOMOR06]
+@10 = ~De quoi s'agissait-il ?~
+@11 = ~Aider la ville d'Anegh.
+
+Un étrange magicien, nommé Nomoran, nous a demandé de l'aider à libérer sa ville d'une horde de monstres qui l'a envahie. Ni les soldats, ni Nomoran lui-même, un puissant magicien n'ont réussi. Nous avons accepté et avons été téléportés dans les montagnes, l'entrée étant dissimulée par magie. Nous voici. J'espère que nous ne serons pas submergés.~
+@12 = ~Nous sommes arrivés, mais pas le temps de bavarder ! À l'est se trouve le camp des survivants ; ils risquent d'être attaqués ! Aidez-les et ils vous aideront ! Bonne chance, brave aventurier !~ [ZNOMOR07]
+@13 = ~Je vous aiderai autant que possible.~
+@14 = ~Pas si vite ! Je ne laisserai pas mes héros mourir.~ [ZNOMOR08]
+@15 = ~<NO TEXT>~
+@16 = ~La terre sera emportée pour l'instant. Je m'occupe du reste. Vous, <CHARNAME>, vous devriez d'abord parler au capitaine Loret ; il vous expliquera comment reprendre la ville. À bientôt, nobles héros !~ [ZNOMOR09]
+@17 = ~Vous osez m'attaquer ? Pour cela, vous allez mourir !~ [ZNOMOR10]
+@18 = ~Ah, vous voilà enfin, je vous attendais.~ [ZNOMOR11]
+@19 = ~Par tous les diables ! Je ne me laisserai plus faire ! Qui est responsable de la résurrection de la Légion ?!~
+@20 = ~Pourquoi ne nous avez-vous pas aidés ?~
+@21 = ~Oui, nous voilà. Que faire ?~
+@22 = ~Je ne peux répondre à cette question. Je peux seulement vous dire ceci : nous devons affronter le mal à la racine si nous voulons triompher. Nous pourrons le faire une fois le portail franchi. Tuez les gardes et nous ouvrirons la porte pour affronter le mal.~ [ZNOMOR12]
+@23 = ~Je suis un puissant mage, mais je ne suis pas responsable de tout, n'est-ce pas ? Je me suis occupé des nains. Ils vont tourner en rond dans la grotte et ne pourront rien faire contre la horde de monstres. Avancez dans la grotte, tuez les gardes, et on verra.~ [ZNOMOR13]
+@24 = ~Entrez dans la grotte, tuez le garde et nous traverserons le portail ensemble ! Nous éradiquerons le mal à la source !~ [ZNOMOR13]
+@25 = ~Ah ! Merveilleux ! Je vois que vous avez traversé le passage des ténèbres et l'avez ouvert pour le coup final. Cependant, maintenant qu'il est libre, nos ennemis pourraient bien porter leur attaque finale en premier ! Nous devons agir vite. Ah, oui, je vois aussi que vous possédez un parchemin que je cherchais déjà, merci.~ [ZNOMOR15]
+@26 = ~Pourquoi ne nous avez-vous pas aidés ? Et que cache ce parchemin ?~
+@27 = ~Ne soyez pas si agressif ! Réjouissez-vous si vous préférez, votre mission est presque terminée et vous pouvez reprendre votre chemin. Vous avez sauvé toute la Côte des Épées, que voulez-vous de plus ? Ce parchemin n'est qu'une de mes expériences, rien de spécial, mais il  important pour moi. Vous êtes encore en vie, donc vous en aviez besoin. Mais maintenant, vous avez besoin de mon aide, nous devons ouvrir le portail ensemble !~ ~Ne soyez pas si agressive ! Réjouissez-vous si vous préférez, votre mission est presque terminée et vous pouvez reprendre votre chemin. Vous avez sauvé toute la Côte des Épées, que voulez-vous de plus ? Ce parchemin n'est qu'une de mes expériences, rien de spécial, mais il  important pour moi. Vous êtes encore en vie, donc vous en aviez besoin. Mais maintenant, vous avez besoin de mon aide, nous devons ouvrir le portail ensemble !~ [ZNOMOR16]
+@28 = ~Nous ne sommes pas prêts.~
+@29 = ~D'accord, passons.~
+@30 = ~Revenez vite ! Je vous attendrai aussi longtemps qu'il le faudra.~ [ZNOMOR17]
+@31 = ~Vous êtes prêt maintenant ? Il est important que vous soyez bien préparé.~ ~Vous êtes prête maintenant ? Il est important que vous soyez bien préparée.~[ZNOMOR18]

@@ -1,0 +1,1055 @@
+@1     = ~Les histoires d'Anegh (Weidu)~
+@2     = ~Armure de plaques complètes~
+@3     = ~L'armure de plaques complètes est la meilleure armure qu'un guerrier puisse acquérir, tant par son apparence que par sa protection. Les plaques parfaitement ajustées et imbriquées sont spécialement inclinées pour dévier les flèches et les coups, et l'ensemble est soigneusement orné de riches gravures et de détails en relief.
+
+PARAMÈTRES
+
+CA: 1
+Poids: 70
+Nécessite: 15 en Force
+
+Non utilisable par:
+  Barde
+  Druide
+  Mage
+  Voleur~
+@4     = ~Amulette~
+@5     = ~Amulette du Vent~
+@6     = ~Les amulettes sont généralement des objets magiques que l'on porte autour du cou, suspendus à une chaîne. Le type de chaîne qui accompagne une amulette en augmente généralement la valeur esthétique, et non les propriétés magiques. On ne peut porter qu'une seule amulette à la fois.~
+@7     = ~Amulette du Vent
+
+Un clerc des « Dieux Élémentaires » a tenté de vous éliminer, laissant derrière lui une étrange amulette jaunâtre. Lorsque vous la touchez, vous ressentez une certaine agitation intérieure, une envie irrésistible de fuir. Il serait préférable de laisser l’amulette dans votre sac à dos.~
+@8     = ~Épée à deux mains~
+@9     = ~Anathros, Épée de la Terre~
+@10    = ~L’épée à deux mains est un dérivé de l’épée longue. Les forgerons d’armes ont toujours cherché à améliorer les armes de leur temps. Pour l’épée longue, ils ont allongé la lame. Après la lame, c’est la poignée qui s’est allongée. Il est alors devenu nécessaire d’utiliser les deux mains pour manier l’épée. La fonction première de l’épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. 
+
+PARAMÈTRES
+
+Dégâts: 1d10 (tranchant)
+Facteur de Vitesse: 10
+Type de Compétence: Épée à deux mains
+Type: arme à 2 mains
+Nécessite:
+ 14 en Force
+
+Poids: 15~
+@11    = ~Cette épée fut créée par le légendaire guerrier-mage Tandos Anegh. Conçue spécifiquement pour le combat et la protection des mages, elle est également appelée l'Épée de la Terre, car elle dégage une sérénité telle que même les plus impulsifs de ses porteurs prennent des décisions guidées par la raison plutôt que par leurs émotions. Un mage qui possède cette arme peut s'estimer chanceux.
+
+PARAMÈTRES
+
+Le porteur de cette épée peut manier cette arme comme s'il était un Grand Maître dans cette compétence. 
+Il est immunisé contre la peur et la CA du porteur est améliorée de 3. 
+De plus, le porteur peut mémoriser un sort de 4e et de 6e niveau supplémentaire. 
+
+THAC0: +5
+Dégâts: 1D8+5 (tranchant)
+Bonus de dégâts: +1 (magique)
+Poids: 4
+Facteur de Vitesse: 5
+Type de Compétence: Épée longue 
+Type: arme à 1 main
+Nécessite: 6 en Force
+
+Utilisable par:
+  Mage d’alignement bon~
+
+
+
+
+@12    = ~Lame de l'Anathros~
+@13    = ~Ceci est une lame d'épée. Sans poignée ni autre accessoire. Dans cet état, elle est inutilisable.~
+@14    = ~Joyau du pommeau de l'Anathros~
+@15    = ~Cette pièce, magnifiquement décorée et pourtant très compacte, pourrait faire partie du manche d'une arme.~
+@16    = ~Poignée de l'Anathros~
+@17    = ~Il s'agit clairement d'une poignée d'arme. Impossible de savoir à quelle arme elle appartient.~
+@18    = ~Fragment de Miroir Magique~
+@19    = ~Ceci est un fragment du Miroir Magique qui a créé vos doubles.~
+@20    = ~Cette épée a été forgée par le légendaire Guerrier-Mage Tandos Anegh. Elle est spécifiquement conçue pour être utilisée par un mage au combat et pour le protéger. On l'appelle aussi l'Épée de la Terre, car elle dégage une sérénité telle que même les porteurs les plus impulsifs prennent des décisions guidées par la raison plutôt que par les émotions. Un mage qui possède cette arme peut s'estimer chanceux. Affinée grâce à un miroir magique, la lame a désormais le pouvoir d'influencer la magie de ses ennemis.
+
+PARAMÈTRES
+
+Le porteur de cette épée longue peut la manier comme s'il était un Grand Maître dans cette compétence.
+Il est immunisé contre la peur et sa CA est augmentée de 3.
+De plus, il peut mémoriser un sort supplémentaire de niveau 4 et un autre de niveau 6.
+Le porteur est sous l'effet du sort «Déviation mineure de sort».
+
+THAC0: +6
+Dégâts: 1D8+6 (tranchant)
+Bonus de dégâts: +2 (magique)
+Poids: 4
+Facteur de Vitesse: 5
+Type de Compétence: Épée longue 
+Type: arme à 1 main
+Nécessite: 6 en Force
+
+Utilisable par:
+  Mage d’alignement bon~
+
+
+
+
+
+@21    = ~Amulette de glace~
+@22    = ~Amulette de glace
+
+Une autre chaîne des « Dieux Élémentaires »
+
+Vous connaissez des divinités comme Auril, la déesse du froid, ou Chauntéa, déesse de la terre. Mais vous ignorez tout des « Dieux Élémentaires » oubliés, et de ce qu'il a pu vouloir dire.
+
+Malgré tout, l'amulette dégage une aura de froid glacial, bien qu'elle ne possède aucun pouvoir particulier apparent.~
+@23    = ~Épée longue~
+@24    = ~Lame noire du destin~
+@25    = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l’épée longue a une lame à simple tranchant. Le modèle et la longueur de l’épée varient d’un peuple à un autre et parfois même d’une époque à une autre. L’une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 89 cm et 119 cm. Dans le cas des épées les plus longues, la lame couvre 102 cm de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l’épée longue est une arme considérée comme tranchante, et non perforante.
+
+PARAMÈTRES
+
+Dégâts: 1d8 (tranchant)
+Facteur de Vitesse: 5
+Type de Compétence: Épée longue
+Type: arme à 1 main
+Nécessite:
+ 6 en Force
+
+Poids: 4
+
+Non utilisable par:
+  Druide
+  Clerc
+  Mage~
+@26    = ~Voici la toute première Lame Noire du Destin. Elle fut créée par le mage Daraknor, l'un des rares spécialistes de la magie des épées. La lame est née d'une faille dans la structure des plans. Sa puissance est insurpassable. Avec un peu de chance, son porteur peut terrasser son adversaire instantanément. De plus, à chaque coup, la lame absorbe la vie de la victime et guérit le porteur. Cependant, un grand pouvoir engendre de grands dangers. Puisqu'elle crée une faille dans les plans, il arrive que son porteur soit brièvement transporté dans un autre plan. De plus, des créatures venues d'autres plans peuvent apparaître et l'attaquer avec fureur. On ignore de quelles créatures il s'agit.
+
+PARAMÈTRES
+
+Chaque coup a 5 % de chances de tuer l'ennemi instantanément.
+Chaque coup a 10 % de chances de soigner 2D4 points de vie de Dégâts au porteur.
+
+THAC0: +5
+Dégâts: 1D8+5 (tranchant)
+Bonus de dégâts +1 (magique)
+Poids: 4
+Facteur de Vitesse: 5
+Type de Compétence: Épée longue
+Type: arme à 1 main
+Nécessite: 6 en Force
+
+Non utilisable par: 
+  Druide
+  Clerc
+  Mage~
+
+@27    = ~Ceinturon~
+@28    = ~Ceinturon du Regard Véritable~
+@29    = ~Les ceinturons ressemblent généralement à des ceintures. Contrairement à ces dernières, ils ne servent pas à maintenir les pantalons et les salopettes, mais à porter des sacoches, des fourreaux, etc..  
+
+PARAMÈTRES
+
+Poids:  2~
+@30    = ~Un ceinturon d'un autre temps, mais dont le pouvoir est toujours présent et aussi utile qu'auparavant. Un mage consacra sa vie à l'étude des auras des êtres vivants. Il en étudia les caractéristiques et la manière de les rendre visibles à l'œil nu.
+À la demande d'un roi méfiant, il créa le Ceinturon du Regard Véritable. Grâce à lui, le roi pouvait discerner les intentions d'autrui, qu'ils se dissimulent dans l'ombre ou se faufilent invisiblement dans les couloirs pour lui nuire ! Malheureusement, le Ceinturon ne se révéla pas aussi efficace que le roi l'espérait, car il fut trompé par le mage qui l'avait forgée, il parvint à se protéger de ses pouvoirs.
+
+PARAMÈTRES
+
+Peut lancer Détection des invisibilités, Dissipation de la magie et Vision véritable une fois par jour
+
+Poids: 2~
+
+
+@31    = ~Rapport de bataille #1~
+@32    = ~Rapport de bataille #1
+
+Voici le premier des trois rapports de bataille de l'armée ennemie sous la bannière de la Chimère. Ce rapport indique le nombre de monstres, d'humains et d'elfes noirs dans les troupes. Les deux autres rapports, contenant les dates et lieux des attaques, manquent encore.~
+@33    = ~Rapport de bataille #2~
+@34    = ~Rapport de bataille #2
+
+Voici le deuxième des trois rapports de bataille de l'armée ennemie sous la bannière de la Chimère. Ce rapport indique les heures auxquelles les troupes doivent se rassembler et quand lancer l'attaque. Les deux autres plans, contenant le nombre de troupes et leurs positions, manquent encore.~
+@35    = ~Rapport de bataille #3~
+@36    = ~Rapport de bataille #3
+
+Voici le troisième et dernier rapport de bataille de l'armée ennemie commandée par la Chimère. Ce rapport détaille tous les lieux de campement des troupes, ainsi que leurs plans d'attaque. Combiné aux deux premiers rapports, qui indiquent l'effectif des soldats et l'heure de l'attaque, il permettrait de connaître les plans de la Chimère et, éventuellement, de les déjouer.~
+@37    = ~La Fondation d'Anegh~
+@38    = ~« ... et Daraknor fit tournoyer sa Lame Noire du Destin pour abattre Anegh. Une lumière scintillante sembla fendre la montagne et, à la fin, seuls du sable et un parchemin restèrent emportés par le vent.» Ainsi rapporte Narak Telnar, le seul témoin oculaire de la bataille dans les montagnes et du sauvetage de la structure des plaines par Tandos Anegh. En son honneur, Narak fonda la ville d'Anegh, nommée d'après l'Archimage...~
+@39    = ~Épée courte~
+@40    = ~Épée courte du dragon~
+@41    = ~L’épée courte est le premier type d’épée à être apparu. Grossièrement, on peut comparer une épée courte à une dague dont la lame serait si longue qu’on ne pourrait plus l’appeler dague. Le terme épée courte n’entre pas dans les catégories d’épées. Pourtant, il est utilisé pour décrire une lame à double tranchant longue d’environ 60 cm. L’estoc de l’épée est généralement pointu, et on la range donc parmi les armes perforantes. 
+
+PARAMÈTRES
+
+Dégâts:  1D6
+Dégâts type:  perforant
+Poids: 3
+Facteur de Vitesse: 3
+Type de Compétence:  Épée courte
+Type:  arme à 1 main
+Nécessite: 5 en Force
+
+Non utilisable par:
+  Druide
+  Clerc 
+  Mage~
+@42    = ~Une épée pour le moins inhabituelle, que dire de plus ? Elle fut forgée par Herenial « le Maladroit ». Passionné par son travail, il ne put pourtant accomplir sa tâche, car il était l'homme le plus maladroit de toute la Côte des Épées. Mais il ne fallait pas confondre maladresse et stupidité : c'était un jeune homme très intelligent, au cœur pur. Des centaines de fois, il tenta de forger une épée, sans succès ; tout ce qu'il créait était de piètre qualité.
+Chaque jour, un vieil homme venait le voir et le persuadait de persévérer, lui assurant qu'un jour il forgerait une épée puissante s'il n'abandonnait jamais. Aujourd'hui, la théorie veut que ce vieil homme soit un vieux dragon d'argent sous forme humaine. Un soir, alors que des rumeurs de bandits circulaient et que l'on avait cruellement besoin de bonnes épées forgées, Herenial trouva des Écailles de Dragon d'Argent après la visite du sage vieillard. Il forgea toute la nuit jusqu'à créer sa première épée véritablement massive. Avec cette épée, le «Klutz» défendit son village contre les bandits et tua leur chef, mais périt malheureusement dans l'effort. Ses dernières paroles auraient été: «La seule chose véritable que j'aie jamais créée, c'est de combattre l'injustice et de ne jamais être utilisé à des fins maléfiques.» Sur ces mots, Herenial rendit l'âme.
+
+La lame présente une légère teinte bleutée, car elle a été forgée dans le feu. Il s'avère que cette couleur est normale chez un dragon d'argent nouveau-né. 
+De par son lien de parenté avec un dragon d'argent, elle possède des pouvoirs magiques liés à la glace.
+
+PARAMÈTRES
+
+Résistance au froid : +15%
+
+Dégâts: 1D6+3 (perforant)
+Bonus de dégâts: +5 contre quiconque d’alignement mauvais
+              +1 (froid)
+Poids: 3
+Facteur de Vitesse: 3
+Type de Compétence: Épée courte
+Type: arme à 1 main
+Nécessite: 5 en Force
+
+Non utilisable par:
+  Personnage d’alignement bon
+  Druide
+  Clerc 
+  Mage~
+@43    = ~Amulette de la Terre~
+@44    = ~Amulette de la Terre
+
+Voici la dernière chaîne de l'Alliance des objets élémentaires. Portée par le grand prêtre autoproclamé, Tharos.
+Que pourrait-il bien se passer si toutes les amulettes étaient réunies ?
+
+Quoi qu'il en soit, la chaîne dégage une sérénité qui rappelle ce que vous avez ressenti à Château-Suif...~
+@45    = ~Herbe à baies inconnues~
+@46    = ~Voici une branche avec les feuilles séchées et les baies rouges décrites par Emir. Les baies semblent toxiques, mais il saura lui-même ce qu'il peut fumer et ce qu'il ne peut pas.~
+@47    = ~Arc long composite~
+@48    = ~Arc long composite d'Elsa~
+@49    = ~Les arcs composites sont des arcs longs ou courts dont les flèches sont fabriquées à partir de plusieurs matériaux. Cela leur confère une plus grande flexibilité et permet aux flèches tirées de cet arc d'infliger plus de dégâts. Pour manier un arc aussi puissant, il faut une force de 18.
+
+PARAMÈTRES
+
+THAC0:  +1 bonus
+Dégâts:  +1
+Poids: 10
+Facteur de Vitesse: 7
+Type de Compétence: Arc long
+Type:  arme à 2 mains
+Nécessite: 18 en Force
+
+Non utilisable par:
+  Druide
+  Clerc
+  Mage 
+  Voleur
+  Barde~
+@50    = ~Arc d'Elsas Eladamri +5
+
+Voici le célèbre arc runique de l'elfe Elsas Eladamri, une légende de Krynn qui fréquentait parfois la Côte des Épées. Cet arc offre une visée incroyablement facile et une certaine résistance aux attaques. Posséder ces runes gravées sur son arc est le rêve de tout archer.
+
+PARAMÈTRES
+
+Résistance à la magie : +20 %
+Le porteur peut bénéficier d'un bonus de +7 au THAC0 une fois par jour pendant 9 secondes.
+
+THAC0: +5
+Dégâts: 3 (selon niveau)
+Bonus de dégâts: 3 (magique)
+Poids: 7
+Facteur de Vitesse: 4
+Type de Compétence: Arc long
+Type: arme à 2 mains
+
+Non utilisable par:
+  Druide
+  Clerc
+  Mage
+  Voleur
+  Barde~
+@51    = ~Pipe~
+@52    = ~Pipe d'Emir~
+@53    = ~Ceci est une pipe.~
+@54    = ~Voici la pipe d'Emir, le marchand d'Anegh. Il l'avait lors de l'attaque des monstres sur la ville d'Anegh. Elle sent encore le tabac frais. Un parfum vraiment agréable et envoûtant, peut-être est-ce ce qu'il fume encore légalement...?~
+@55    = ~Parchemin de Liberté~
+@56    = ~Voici le parchemin complet. Il rappelle fortement le parchemin magique du sort «Liberté», mais il est beaucoup plus grand et semble avoir été créé avec beaucoup plus de faste. Les glyphes sont disposés de manière beaucoup plus longue et précise que sur le parchemin de Liberté normal.~
+@57    = ~Fragment de parchemin~
+@58    = ~Ceci semble être une partie d'un parchemin. Vous ne savez pas vraiment ce dont il pourrait faire partie.~
+@59    = ~Marteau de guerre~
+@60    = ~Marteau d'or de Berfot~
+@61    = ~Les chevaliers à cheval ne peuvent pas utiliser efficacement les longues armes d'hast à cheval. De ce fait, de nombreuses armes ont été munies de manches plus courts afin de pouvoir être maniées d'une seule main. Les masses d'armes et les fléaux en sont deux exemples, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est un descendant du marteau de Lucerne. Il est entièrement en acier, avec des rondelles protégeant et renforçant la prise en main. Les rondelles sont de petits disques de métal, souvent ornés de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+PARAMÈTRES
+
+Dégâts:  1D4+1
+Dégâts type:  contondant
+Poids: 6
+Facteur de Vitesse: 4
+Type de Compétence: Marteau de guerre
+Type:  arme à 1 main
+Nécessite: 9 en Force
+
+Non utilisable par:
+  Druide
+  Mage 
+  Voleur~
+@62    = ~Le marteau d'or de Berfot
+
+Ce marteau est forgé en or massif et, bien que magnifique à regarder, il est pratiquement inutile au combat. Le métal peut être ensorcelé (par une magie elfique que le forgeron nain Berfot n'admettrait jamais), ce qui le rend indéformable. Mais aussi puissants que soient les sorts au combat, il existe des armes bien plus efficaces que ce marteau d'or. Car les enchantements qui se cachent sous sa beauté exercent une fascination irrésistible...; chacun croit que le porteur de ce marteau est un héros glorieux ayant participé à de nombreuses batailles, ce qui explique sans doute pourquoi ses créateurs lui ont conféré certains avantages, même s'il ralentit légèrement les combats.
+
+PARAMÈTRES
+
+Charme-personne (2 fois par jour)
+Charisme : 20
+
+Dégâts : 1D4+1 (contondant)
+Poids : 6
+Facteur de vitesse : 4
+Type de compétence : Marteau de guerre
+Type : arme à 1 main
+Force : 9
+
+Non utilisable par :
+  Druide
+  Mage
+  Voleur~
+@63    = ~Tête du marteau d'or~
+@64    = ~Il semble s'agir d'une partie d'un marteau. En effet, il manque encore la seconde moitié pour le compléter. La puissance du marteau reste incertaine, car sa tête est en or pur. Cependant, cette pièce devrait certainement rapporter une belle somme à n'importe quel marchand.~
+@65    = ~Manche du marteau d'or~
+@66    = ~Il semble s'agir de la seconde partie d'un marteau. Ce n'est qu'un simple manche, mais il est certainement précieux car il est en or pur ! Qui sait ce que le marteau entier pourrait apporter !~
+@67    = ~Amulette~
+@68    = ~Amulette de gloire~
+@69    = ~Amulette de gloire
+
+Tout comme le Marteau d'or, cette amulette est en or massif et imprégnée de magie elfique (ce que le Nain Berfot n'admettrait jamais). Son rayonnement est moins puissant que celui du marteau, mais suffisant pour qu'un rustre se fasse passer pour un gentleman.
+
+Charme-personne (1x par jour)
+Charisme : 18~
+@70    = ~Épée à deux mains~
+@71    = ~Maîtresse Tailladeuse +12~
+@72    = ~La légendaire Maîtresse Tailladeuse
+
+Une arme comme on n'en voit que dans les rêves les plus fous. Mais peu importe vos efforts pour vous en détacher,  
+ elle n'est qu'une légende, aussi réelle soit-elle. Tout comme son vrai visage, elle paraît incroyable.
+Quiconque a tenu entre ses mains la non moins légendaire Lilarcor sait que l'affirmation « Ma soeur est une Tailladeuse +12 » est tout à fait vraie.
+Avant de devenir des épées, ils étaient tous deux des humains : Lawrence Lilarcor, le benêt du village, et Andrew Lilarcor, le guerrier et forgeron très respecté du village.
+L'histoire commence véritablement avec la quête légendaire dédiée à l’origine à Andrew reprise par Lawrence (principalement pour mettre fin à ses bêtises) chez les Elfes sylvestres. Au départ, Andrew devait encore s'occuper de son frère, pauvre et sous-estimé, mais plus il s'y mettait, plus cela l'exaspérait, sans raison apparente.
+Lawrence fut mis en garde contre cette quête, mais les villageois pensaient que c'était une mauvaise blague et l'avaient suivi. Mais Lawrence voulait qu'ils l'entendent et ils se mirent en route. 
+Lorsque Lawrence revint « avec succès » et déraciné un vieil arbre, naquit, comme beaucoup le savent, la légende de Lilarcor, présente dans toutes les histoires et légendes, personnifiée par l'apparence d'un idiot.
+Et c'était là le problème majeur...: partout où l'on racontait des histoires stupides, on mentionnait Lilarcor, mais jamais son nom complet...!
+Andrew, son frère, en avait le plus souffert. Bien qu'il fût le forgeron du village et que chacun sût ce que signifiait Lilarcor, il était aussi un guerrier qui, durant les longs étés, parcourait souvent le pays pour acquérir de nouvelles techniques d'escrime et accroître sa puissance.
+Mais depuis que ces «...tragédies...», selon lui, se sont produites sur la Côte des Épées, il n'a rencontré que moqueries et mépris, et les accusations portées contre son frère sont restées vaines.
+Sans avoir accompli d'exploits significatifs ni mené de quêtes importantes, Andrew interrompit son voyage et rentra chez lui. À son arrivée, les villageois l'attendaient avec impatience...: Lawrence fut accueilli en héros...! Tous s'écrièrent...: «...Lawrence, le tueur de trolls...!». Personne ne parlait plus de son frère, et drôlement, personne n'osait aborder le sujet.
+Andrew aurait pu donner une tournure positive à cet épisode de l'histoire, et l'affaire en aurait été close. Mais, hélas, il n'en fut rien. Plutôt que de se réjouir du succès (très) inattendu de son frère, il nourrit sa haine envers Lawrence encore plus profondément et la laissa s'enraciner. Lui, Andrew, était le grand héros du village et le guerrier respecté de la Côte des Épées, pas Lawrence...! Pourtant, il savourait les exploits dans son pays natal, tandis qu'Andrew enchaînait les déconvenues et rentrait chez lui frustré.
+Andrew demanda à son frère de lui expliquer comment de telles choses pouvaient arriver, après quoi Lawrence parla d'un étrange Mage et lui transmit le «...Guide du guerrier...». Après des mois d'étude (le texte était bien plus difficile à comprendre), il maîtrisa le guide et suivit scrupuleusement les instructions. Très vite, il devint beaucoup plus fort.
+Un jour, une horde de trolls attaqua le village sans défense et voulut l'envahir. Les villageois savaient se défendre, mais face à une telle armée de trolls, ils n'avaient jamais su quoi faire. Lawrence garda son sang-froid, massacra les trolls, incitant les villageois, torches à la main, à se jeter sur eux et à les tuer définitivement. C'est ainsi qu'il devint le héros connu sous le nom de « Lawrence le tueur de trolls ».
+Quelques semaines passèrent et la haine ne cessa de croître. À plusieurs reprises, Lawrence se moqua de lui et ternit son héroïsme. À ses yeux, il était l'idiot du village, et désormais, il ne l'était plus. 
+Si le souvenir de la chasse était tout simplement insupportable pour Andrew, Lawrence avait ruiné sa vie, non, il la lui avait volée. Il vivait la vie qu'il méritait, alors il se battit avec son frère et tenta de le tuer dans la forêt. Tous deux étaient de bons combattants, et il fallut longtemps avant que l'un d'eux ne prenne l'avantage. À présent, impossible de dire lequel des deux frères s’apprêtait à l’emporter, mais peu importe. L'autre frère parvint à s'échapper au dernier moment en reculant, mais malheureusement, une pente abrupte le piégea. Accrochés l'un à l'autre, ils tombèrent tous deux dans les profondeurs d'une partie inconnue de la forêt. Andrew, à peine vivant, crachait du venin et du fiel et tentait par tous les moyens d'achever son frère, même s'il savait qu'il ne survivrait pas.
+
+C'est alors qu'arriva le sorcier que Lawrence avait payé pour le guide et donc s’avérait être le responsable de sa force. Voyant les deux frères tenter de s'entretuer, il s'écria avec colère...: «...Je n'ai pas donné à Lawrence Lilarcor le pouvoir de surpasser l’autre, je vous ai donné l'occasion, vous, de devenir les invincibles frères Lilarcor, héros de la Côte des Épées à travers l'histoire...! Et voilà que je vous trouve ici...?! Vous voulez vous battre...? Vous voulez tuer...? Qu'il en soit ainsi, je vous donnerai cette chance jusqu'à la fin des temps...!» Sur ces mots, les deux frères furent transformés en épées.
+Ainsi s'achève la triste histoire des frères Lilarcor, et l'on comprend la raison de leur transformation. Lawrence, sous sa forme humaine, conserve sa puissance d'épée et sa capacité à tuer, mais sans malice.
+À l'inverse de son frère Andrew, transformé en épée dans un accès de haine pure, il a absorbé cette haine dans sa nouvelle apparence, et rien d'autre. Son humanité a alors complètement disparu, et contrairement à Lawrence, il reste muet comme une épée. Emplie de haine et de soif de sang, l'une des épées tailladeuses les plus puissantes connues possède de nombreuses caractéristiques mortelles, que le temps et le perfectionnement n'ont fait qu'accroître. Cependant, elle est tout aussi dangereuse pour celui qui la manie. La haine et la soif de sang se transmettent à son porteur, ce qui explique pourquoi même l'homme le plus droit et le plus bon, capable de manier cette épée, commet les atrocités les plus odieuses sans le moindre remords. De plus, sa soif de sang insatiable dépasse même ses propres limites, la force vitale nécessaire pour l'étancher. Ce n'est pas seulement la faiblesse face à l'épée, celle qui meurt blessée par un ennemi sans défense, qui est morte.
+Car la fureur contagieuse de l'épée se transmet à son porteur, au point que parfois, dans une telle frénésie, il attaque sans relâche, frappant jusqu'à la mort, d'où son nom : Tailladeuse. Nombreux sont ceux qui ont tenté de détruire cette épée maudite, mais jusqu'à présent, nul n'y est parvenu.
+
+PARAMÈTRES
+
+Immunité contre la peur
+Intelligence : -1
+Force : +1
+Alignement : Loyal Mauvais
+40 % de chances d'infliger 2D2+1 Dégâts au porteur
+
+Dégâts Supplémentaires Divers : Dégâts Supplémentaires Divers : Avec 5 % de chances (sous Dégâts Supplémentaires)de réussir tous les coups si la victime rate son jet de sauvegarde contre la mort. En cas de réussite, la cible est empoisonnée avec 5 % de chances pendant 10 rounds et subit 2 Dégâts avec 5 % de chances. Le porteur entre également en état de berserk et attaque la cible la plus proche, alliée ou ennemie.
+ 
+THAC0 : +5
+Dégâts : 1D10+5 (perforant)
+Dégâts supplémentaires :
+  2D4+1 (Feu)
+  2D4+1 (Froid)
+  2D4+1 (Électricité)
+
+Poids : 15
+Facteur de vitesse : 10
+Type de compétence : Épée longue
+Type : À deux mains
+Force : 14
+
+Non utilisable par :
+  Druide
+  Clerc
+  Mage
+  Voleur~
+@73    = ~Potion~
+@74    = ~Corne à boire de Naurandir~
+@75    = ~Les potions se trouvent généralement dans des flacons ou des fioles en céramique, cristal, verre ou métal. Ces flacons ou autres récipients contiennent généralement suffisamment de liquide pour fournir à une personne une dose complète permettant d'obtenir les effets de la potion.~
+@76    = ~Une corne à boire toujours pleine est le rêve de tout alcoolique ! Cette corne est remplie chaque jour par une puissante magie venue d'un autre plan, avec la meilleure boisson qui soit : l'Immermet ! Une gorgée de cette corne permet d'oublier toutes les blessures, mais comme il s'agit d'alcool, on s'enivre aussi ! On devient extrêmement maladroit, certes, mais aussi très euphorique et on se sent plus fort que jamais. Un objet vraiment splendide !
+
+L'utilisateur peut se soigner complètement chaque jour. Il subit cependant l'état « Ivre », ce qui entraîne :
+  Dextérité : -2
+  Force : +1
+  -3 au jet de sauvegarde contre la Mort~
+@77    = ~Clé de la tente~
+@78    = ~Cette clé ouvre la porte en bois de la grande tente dans les montagnes d'Anegh. Le chef de cette zone ne sera pas dérangé, il n'y a donc que deux clés, une pour son bras droit et une pour lui.~
+@79    = ~Lame de Rose +3~
+@80    = ~Lame de Rose, Épée longue +3
+
+La lame possède une beauté surnaturelle. Il est fort probable que Sunie, déesse de la beauté et de la passion, ait participé à sa création. Quiconque prend l'arme en main est témoin d'une transformation miraculeuse. Au cours de l'histoire, cette arme a souvent servi secrètement à transporter un soldat discret à la cour d'un noble grâce à son allure impressionnante.
+
+PARAMÈTRES
+
+Charisme : +2
+
+THAC0 : +3
+Dégâts : 2D4+3 (tranchant)
+Poids : 3
+Facteur de vitesse : 2
+Type de compétence : Épée longue
+Type : arme à 1 main
+
+Non utilisable par :
+  Druide
+  Clerc
+  Mage
+  Voleur~
+@81    = ~Clé de cellule~
+@82    = ~Ceci est une clé. Elle semble correspondre aux serrures de la prison du Palais de Glace. Cela permettrait de libérer d'autres prisonniers.~
+@83    = ~Amulette de Feu~
+@84    = ~Le gnoll fou, Kalak, portait cette amulette. Spécialisé dans le feu, il se prétendait «...Clerc des Dieux Élémentaires...».
+
+Vous connaissez certainement des dieux comme Auril, la Déesse du Froid, ou Chauntéa, la Déesse de la Terre. Mais vous ignorez tout des «...Dieux Élémentaires...» oubliés, et de ce qu'il entendait par là.
+
+Malgré tout, l'amulette dégage une agréable chaleur, même si elle ne possède aucun autre pouvoir particulier apparent. Comment Kalak pouvait-il bien l'utiliser...? Pourrait-elle vous être utile...?~
+@85    = ~Vin de Mefiz~
+@86    = ~Vin de Mefiz
+
+Voici le meilleur vin de Mefiz. Oui, c'est exact.~
+@87    = ~Parchemin~
+@88    = ~Boule de Feu Divine~
+@89    = ~Boule de Feu Divine (évocation)
+
+Niveau: 7
+Portée: Portée visuelle du lanceur
+Durée: Instantanée
+Temps d'incantation: 3
+Zone d'effet: Rayon de 6 mètres
+Jet de sauvegarde: 1/2
+
+Myrkul, également appelé le Dieu de la Destruction, possédait, depuis la création du monde matériel, une certaine affinité avec la force du feu. Aucun autre élément ne pouvait être ciblé, ni même infliger de dégâts aussi efficacement. Durant le Temps des Troubles, en tant que dieu, Myrkul fut contraint de vivre comme un mortel, mais il sut approfondir sa compréhension de cette particularité. Il connaissait la magie d'une Boule de Feu et sa force intrinsèque, mais grâce à sa connaissance divine, il savait également que cette magie recelait un potentiel destructeur bien plus grand. Après de nombreuses tentatives, il parvint à combiner la puissance d'une boule de feu du plan matériel au niveau spirituel le plus proche et à la perfectionner. Malheureusement, il ne put créer qu'un seul parchemin, car il fut vaincu peu après par Minuit, désormais connue sous le nom de Mystra, la Déesse de la magie.
+Cette boule de feu divine inflige des dégâts de base de 2d6+4, auxquels s'ajoutent 1d6+1 par niveau du lanceur. Ainsi, un magicien de niveau 10 infligerait 11d6+13 dégâts. Contrairement à la boule de feu de niveau 3, il n'y a aucune restriction quant aux dégâts. Puisque la boule de feu est également liée au niveau spirituel, l'âme de la personne concernée s'auto-attaque. Par conséquent, un jet de sauvegarde contre la magie doit être réussi, sous peine de voir l'âme de la victime absorber des  dégâts et être en état de panique. Dans la lutte pour son âme sur le plan matériel, la victime subit les conséquences de cette attaque et se solidifie pendant une certaine durée. Si la personne concernée réussit un jet de sauvegarde contre la magie, les dégâts sont réduits de moitié et elle n'est pas gelée.~
+@90    = ~Parchemin de Protection~
+@91    = ~Parchemin de Protection du Dragon~
+@92    = ~Un parchemin de protection est un ensemble de runes magiques gravées sur un parchemin enchanté. Ces parchemins sont uniques car n'importe quel personnage peut les lire, qu'il soit versé dans la magie ou non. Lorsque les runes sont lues à voix haute, la magie protectrice est libérée sur la cible choisie par le lecteur. Ces parchemins peuvent avoir de nombreux effets bénéfiques, mais il convient d'être prudent avec les parchemins provenant de sources suspectes.~
+@93    = ~Parchemin de Protection du Dragon
+
+Ce parchemin comporte d'étranges caractères. Cependant, le symbole le plus facilement reconnaissable est sans ambiguïté : un dragon. De quoi s'agit-il ?~
+@94    = ~Sapientiatus~
+@95    = ~Les amulettes sont généralement des objets magiques que l'on porte autour du cou, suspendus à une chaîne. Le type de chaîne d'une amulette en augmente généralement la valeur esthétique, et non ses propriétés magiques. On ne peut porter qu'une seule amulette à la fois autour du cou.~
+@96    = ~Sapientiatus
+
+Le mot «Sapientiatus» dérive de «Sapientia», qui signifie approximativement «Sagesse» dans les langues anciennes. Cette amulette possède le pouvoir d'absorber la sagesse de son porteur et de la conserver à jamais. Ainsi, celui qui la porte possède non seulement sa propre sagesse, mais aussi une multitude de sagesses accessibles à tout moment.
+On ignore qui a créé cette amulette, mais on sait que lors de sa fabrication, une erreur aux conséquences considérables s'est produite. Un serpent a tenté de tuer le forgeron et s'est emparé de l'amulette, avec laquelle le poison s'est mêlé à la magie.
+C'est pourquoi, lorsqu'on la porte, le corps est légèrement affaibli face au poison.
+
+PARAMÈTRES SPÉCIAUX
+
+Sagesse : +6
+-1 aux jets de sauvegarde contre le poison et la mort
+
+Utilisable par :
+Clerc~
+@97    = ~Lance~
+@98    = ~Lance du dragon +3~
+@99    = ~L’épieu, l’une des premières armes de l’homme, remonte aux temps les plus reculés et était initialement constitué d’un pic ou d’un bâton de bois taillé en pointe à une extrémité. Avec la découverte et la maîtrise des métaux, les hommes ont commencé à remplacer les pointes en bois par des pointes en fer et en acier. Les armuriers ont alors pu essayer différents types de pointes, ce qui a permis l’élaboration de certains types d’armes d’hast.
+
+PARAMÈTRES
+
+Dégâts : 1D6
+Type de dégâts : perforant
+Poids : 5
+Facteur de vitesse : 6
+Type de compétence : Lance
+Type : arme à 2 mains
+Nécessite : 5 en Force
+
+Non utilisable par :
+  Clerc
+  Mage
+  Voleur~
+@100   = ~Lance du Dragon +3
+
+C'est une arme redoutable contre les dragons. Forgée dans le feu du célèbre dragon Meliadus, cette lance possède des capacités incroyables. On imagine qu'au fil des siècles, elle a baigné dans le sang d'innombrables dragons. Forger cette puissance lui confère un soutien quasi invincible, lui permettant d'affronter sans crainte la silhouette imposante d'un dragon. 
+De plus, il convient de mentionner que, du fait de ce sentiment d'invincibilité procuré par la lance, celui qui la porte sous-estime encore ses adversaires, alors même que la lance a été baignée dans le sang d'innombrables dragons ; mais vous ne voudriez pas savoir combien de fois ce sang était celui de son porteur.
+
+PARAMÈTRES
+
+Porteur sous l'effet de «Protection contre la peur»
+Force: +1
+Dextérité: -1
+
+THAC0: +3
+Dégâts: 1D6+3 (perforant)
+Bonus de dégâts: +5 contre les dragons
+Poids: 5
+Facteur de vitesse: 5
+Type de compétence: Lance
+Type: arme à 2 mains
+Nécessite: 5 en Force
+
+Non utilisable par:
+  Clerc
+  Mage
+  Voleur~
+@101   = ~Cape~
+@102   = ~Cape spectrale~
+@103   = ~La cape peut être confectionnée dans toutes les formes possibles avec presque tous les types de tissus. Les formes les plus courantes sont un morceau de tissu circulaire avec un trou au centre pour la tête, et un tissu drapé depuis le cou, relié par une chaîne, une broche, un cordon ou des épingles.~
+@104   = ~Cape spectrale
+
+La magie et les matériaux des plus divers ont servi à créer une cape qui unit en elle les quatre éléments de ce monde : la chaleur du feu, le froid de l'eau, la en Force du vent et la pureté de la terre.
+Cependant, une toile magique s'est tissée dans cette cape, émanant de l'un des plus grands démons, Beredil, exaspéré que les quatre éléments soient toujours contrôlés par différents démons et non par un seul.
+En effet, Beredil fut tué peu après l'achèvement de la cape par son frère Beresil, avant même d'avoir pu en utiliser le pouvoir. Ainsi, Beresil, le démon du feu, tua également les autres et vécut seul pendant des siècles en tant que « Dieu Élémentaire ».
+Cette cape fonctionna longtemps et avec succès, car elle peut véritablement vaincre et contrôler les quatre éléments. De fait, elle est formée du vaste spectre de la magie de manière extrêmement visible, rendant impossible toute approche furtive de l'ennemi ou même la dissimulation dans l'ombre.
+
+PARAMÈTRES
+
+CA : -1
+Invocation d'un élémentaire de feu (1 fois par jour)
+Cône de froid (1 fois par jour)
+
+Résistance à l’électricité : +15 %
+Résistance au feu : +15 %
+Résistance au froid : +15 %
+Résistance au poison : +15 %
+
+Le porteur subit un malus de 30 % à ses jets de déplacement silencieux et de dissimulation dans l'ombre.
+Tous ses jets de sauvegarde sont réduits de 1.
+
+Poids : 3~
+@105   = ~Boisson solaire éternelle~
+@106   = ~Boisson solaire éternelle
+
+Une boisson d'une puissance immense, que dire de plus sur ce qui est déjà presque un «artefact» ? Créée par Lathandre, le Seigneur de l'Aube, la puissance du soleil est inhérente à cette boisson. Une fois nourri, le récipient contenant ce précieux liquide ne se videra jamais. Au réveil, le lendemain matin, il est de nouveau plein et prêt à être bu.
+Cette boisson a déjà sauvé de nombreux possesseurs au cours des siècles, et plus d'un grâce à ses pouvoirs magiques.
+
+PARAMÈTRES
+
+Spécial: Guérit entièrement l'utilisateur une fois par jour.
+
+Poids: 1~
+@107   = ~Lame Stellaire~
+@108   = ~Lame Stellaire +6
+
+Voici la légendaire Lame Stellaire. On dit qu'elle provient de Mystra et qu'elle a été forgée personnellement par la magie. Aussi sacrée que les étoiles, est aussi le porteur de cette lame. Il peut résister à la magie dans une certaine mesure, et même la briser. Avec cette arme entre les mains, son porteur est le cauchemar de tout mage.
+
+PARAMÈTRES
+
+Résistance à la magie : 20%
+
+Déclencheur de sort (1x par jour)
+Frappe magique (1x par jour)
+
+THAC0: +6
+Dégâts : 1D12+6 (tranchant)
+Bonus de dégâts : +3 (magique)
+Poids: 11
+Facteur de Vitesse: 6
+Type de Compétence : Grande Épée
+Type : arme à 2 mains
+
+Non utilisable par:
+  Druide
+  Clerc
+  Mage
+  Voleur~
+@109   = ~Épée courte de la trahison~
+@110   = ~Épée courte de la trahison, « La Lame des Ombres »
+
+La Lame des Ombres a été créée comme l'arme parfaite du crime. Elle est convoitée par tous ceux qui règlent leurs différends par l'épée, et sa possession est rarement longue.
+
+CARACTÉRISTIQUES :
+
+THAC0 : +3
+Dégâts : 1D6 (perforant)
+Poids : 3
+Facteur de vitesse : 3
+Type de compétence : Épée courte
+Type : arme à 1 main
+Nécessite : 5 en Force
+
+Non utilisable par :
+  Druide
+  Clerc
+  Mage~
+@111   = ~Tablette magique~
+@112   = ~Tablette magique
+
+Vous n'avez aucune idée de ce que cette tablette est censée représenter. Seuls apparaissent des gribouillis curieux dessus. Cependant, la sensation est étrange, comme un picotement dans la main même au toucher, ce qui vous fait supposer que, quoi que ce soit, elle est magique.~
+@113   = ~Aruba~
+@114   = ~Balor~
+@115   = ~Barbados~
+@116   = ~Nomartyrinakor~
+@117   = ~Belakord~
+@118   = ~Librairie magique~
+@119   = ~Bote~
+@120   = ~Deva Déchu~
+@121   = ~Guerrier elfe noir~
+@122   = ~Clerc elfe noir~
+@123   = ~Dyrianne~
+@124   = ~Elsas Eladamri~
+@125   = ~Eritrea~
+@126   = ~Syrelin~
+@127   = ~Estgalon~
+@128   = ~Tyrina~
+@129   = ~Meralok~
+@130   = ~Ghana~
+@131   = ~Chef militaire Merathon~
+@132   = ~Chef militaire Chamarol~
+@133   = ~Chef militaire Tikyra~
+@134   = ~Chef militaire Brenlak~
+@135   = ~Chef militaire Lyzikaro~
+@136   = ~Chef militaire Otok~
+@137   = ~Lieutenant Hibiz~
+@138   = ~Hobgobelin de la Chimère~
+@139   = ~Asant~
+@140   = ~Perilla~
+@141   = ~Sumach~
+@142   = ~Mohn~
+@143   = ~Kaper~
+@144   = ~Guerrier Yuan-Ti de la Chimère~
+@145   = ~Mage du Nord~
+@146   = ~Mandrell~
+@147   = ~Mystra~
+@148   = ~Naurandir~
+@149   = ~Général Nekernar ~
+@150   = ~Prêtre de Bhaal~
+@151   = ~Archer du nord~
+@152   = ~Clerc de la Chimère~
+@153   = ~Clerc du nord~
+@154   = ~Sérinthol~
+@155   = ~Kardamome~
+@156   = ~Porrée~
+@157   = ~Salep~
+@158   = ~Mitsuba~
+@159   = ~Kerbel~
+@160   = ~Panais~
+@161   = ~Mage Yuan-Ti de la Chimère~
+@162   = ~Soldat du nord~
+@163   = ~Yuan-Ti d'Elite de la Chimère ~
+@164   = ~Éclaireur~
+@165   = ~Marilith~
+@166   = ~Paladin du nord~
+@167   = ~Voleur de la Chimère~
+@168   = ~Stronack~
+@169   = ~Taralok~
+@170   = ~Chad~
+@171   = ~Ancien Vampire~
+@172   = ~Ancien Vampire~
+@173   = ~Adon~
+@174   = ~Alastin~
+@175   = ~Arya~
+@176   = ~Bérédil~
+@177   = ~Berfot~
+@178   = ~Anton, guide de montagne~
+@179   = ~Tendor~
+@180   = ~Bhaal~
+@181   = ~Bianca~
+@182   = ~Ténèbres~
+@183   = ~Nanos~
+@184   = ~Clerc d'Anegh~
+@185   = ~Cyric~
+@186   = ~Arazitorinaro~
+@187   = ~Dalmaran~
+@188   = ~Dananell~
+@189   = ~Daraknor~
+@190   = ~Davien~
+@191   = ~Deria'Hériol~
+@192   = ~Entraîneur de dragons~
+@193   = ~Donorell~
+@194   = ~Dorenei~
+@195   = ~Tizirko~
+@196   = ~Duergar~
+@197   = ~Guerrier Elfe~
+@198   = ~Elminster~
+@199   = ~Émir~
+@200   = ~Peur~
+@201   = ~Passion~
+@202   = ~Alexander Galor~
+@203   = ~Florian Galor~
+@204   = ~Général Korod~
+@205   = ~Chimère Gnoll~
+@206   = ~Goliath~
+@207   = ~Garde d'Anegh~
+@208   = ~Naraneleth~
+@209   = ~Chef Borot~
+@210   = ~Horoth~
+@211   = ~Haine~
+@212   = ~Ibar~
+@213   = ~Igor~
+@214   = ~Général Jahori~
+@215   = ~Virgin~
+@216   = ~Kalak~
+@217   = ~Poulet tueur~
+@218   = ~Kelemvor~
+@219   = ~Lilly~
+@220   = ~Capitaine Loret~
+@221   = ~Maël~
+@222   = ~Mage d'Anegh~
+@223   = ~Mage Terrinos~
+@224   = ~Mahan~
+@225   = ~Malak~
+@226   = ~Marlik~
+@227   = ~Mary~
+@228   = ~Image miroir~
+@229   = ~Mefiz~
+@230   = ~Minuit~
+@231   = ~???~
+@232   = ~Nicole~
+@233   = ~Nipatar~
+@234   = ~Nomoran~
+@235   = ~Numatiaro~
+@236   = ~Orog de la Chimère~
+@237   = ~Pat~
+@238   = ~Picard~
+@239   = ~Piri~
+@240   = ~Gardien du Portail~
+@241   = ~Rasam~
+@242   = ~Sarah~
+@243   = ~Choc de Bataille~
+@244   = ~Mage du Symbole~
+@245   = ~Soldat d'Anegh~
+@246   = ~Mercenaire de la Chimère~
+@247   = ~Personnage Lumineux~
+@248   = ~Tandos Anegh~
+@249   = ~Tolonek~
+@250   = ~Tortarinelok~
+@251   = ~Tuluk~
+@252   = ~Père Piris~
+@253   = ~Garde Infernal~
+@254   = ~Winifred~
+@255   = ~Winnibald le Fou~
+@256   = ~Mage des Mots~
+@257   = ~Zehlar~
+@258   = ~Général Zahiki~
+@259   = ~Zanaih~
+@260   = ~Camp militaire~
+@261   = ~Cyric, je t'ai donné le courage de tuer Bhaal.~
+@262   = ~Relâchez minuit !~
+@263   = ~Alors apportez-moi la tablette.~
+@264   = ~Vous ne devez pas le permettre !~
+@265   = ~Quand on vit, on n'a pas le choix.~
+@266   = ~Avec l'aide de Sunie, je vous tuerai !~
+@267   = ~Un clerc vaniteux et un guerrier maudit~
+@268   = ~Que cherchez-vous au juste ?~
+@269   = ~On verra bien qui gagne.~
+@270   = ~Maintenant, Cyric !~
+@271   = ~Il faut partir d'ici, vous savez ce qui va se passer !~
+@272   = ~L'heure de mourir a sonné !~
+@273   = ~Quoi ?!~
+@274   = ~À l'aide !~
+@275   = ~Nous te retiendrons, démon !~
+@276   = ~Utilise le pouvoir de Bhaal.~
+@277   = ~Enchaînement~
+@278   = ~Vous êtes trop loin pour entrer dans la grotte.~
+@279   = ~Vous ne pouvez pas entrer dans la grotte pendant le combat !~
+@280   = ~Si vous le souhaitez, vous pouvez entrer dans la grotte maintenant.~
+@281   = ~Urgence combinée~
+@282   = ~Vous êtes trop loin pour utiliser ceci.~
+@283   = ~Vous pouvez boire à la fontaine si vous le souhaitez.~
+@284   = ~Vous vous sentez revigoré et préparé pour les combats futurs.~
+@285   = ~Vous avez l'impression qu'une aura magique vous enveloppe et vous bénit.~
+@286   = ~Le cercueil est vide.~
+@287   = ~Vous n'avez pas de pieu en bois pour empaler le vampire.~
+@288   = ~Vous enfoncez le pieu en bois dans le cœur sombre du vampire. Cette créature ne se nourrira plus jamais du sang d'autres créatures.~
+@289   = ~Le vampire est enfin mort, et le cercueil empeste la décomposition. Il n'y a plus rien à faire.~
+@290   = ~Le marteau a été forgé, il n'y a plus rien à faire.~
+@291   = ~Il vous manque quelque chose pour créer le marteau.~
+@292   = ~Vous ressentez une grande puissance au nord, et vous craignez de ne pouvoir y faire face.~
+@293   = ~Quoi ? Où ai-je atterri ? Non !~
+@294   = ~Alors adieu!~
+@295   = ~Très intéressant, une forte aura démoniaque.~
+@296   = ~Voyons voir qui est-ce, ensuite je récupérerai son pouvoir.~
+@297   = ~AAAAaargh!!!....... Quoi ? Pourquoi suis-je en vie ?~
+@298   = ~Pour que tu me donnes ton pouvoir.~
+@299   = ~Je ne te détruirai jamais!~
+@300   = ~En vous approchant de la zone, vous avez l'impression de pénétrer un pouvoir et cette partie du parchemin commence à briller.~
+@301   = ~En vous approchant de la zone, vous avez l'impression de pénétrer un pouvoir et des parties du parchemin commencent à briller.~
+@302   = ~En vous approchant de la zone, vous avez l’impression de pénétrer un pouvoir et des parties du parchemin commencent à briller.~
+@303   = ~Il n'y a plus rien à faire.~
+@304   = ~Porte dimensionnelle~
+@305   = ~Chante un chant de bataille~
+@306   = ~Dégâts doublés par attaque sournoise~
+@307   = ~L'étui se referme~ [AMB_D05C]
+@308   = ~Une boisson à la couleur étrange, si vous le souhaitez, vous pouvez la boire.~
+@309   = ~Vous buvez la potion.~
+@310   = ~Le récipient est vide.~
+@311   = ~Une transformation de Laplace sur un triangle étoilé... huch ! Mais qu'est-ce que je raconte ! Des bêtises !~
+@312   = ~Ah, la table à manger, pleine de livres... Délicieux.~
+@313   = ~Que vais-je porter aujourd'hui ? Peut-être encore une fois nu, c'est à la mode !~
+@314   = ~Que fais-je ici ? Où suis-je !~
+@315   = ~Hmm... Ah... Oh non, ce n’est pas ça, mais c’est très intéressant.~
+@316   = ~J’adore mon signe d’invocation, il me fait penser à du pop-corn.~
+@317   = ~Où est mon machin-truc ?~
+@318   = ~Je n’ai aucune idée d’où est votre machin-truc.~
+@319   = ~C’est quoi un machin-truc ?~
+@320   = ~Je ne sais pas, vous en avez parlé !~
+@321   = ~Non, vous !~
+@322   = ~Maintenant, je suis perdu.~
+@323   = ~Oups, mauvaise cible !~
+@324   = ~Hmm, donc donc... On dirait que vous avez vraiment survécu à la première vague d’attaque. Eh bien, Korod était un mauvais général, la prochaine vague va vous détruire ! Archers à moi !~
+@325   = ~J'espère que nous pourrons vous aider, à partir de maintenant vous êtes seul.~
+@326   = ~Elbereth na Toraratok berend thesa~
+@327   = ~Vinirelo Mortis beratina kerenerolato~
+@328   = ~La grotte est ouverte, bonne chance !~
+@329   = ~Il est temps de libérer votre cœur !~
+@330   = ~S'il vous plaît, ne me tuez pas !~
+@331   = ~Nous vous tuerons tous !~
+@332   = ~Cyric, je te donne le courage de tuer Bhaal.~
+@333   = ~Relâchez minuit !~
+@334   = ~Alors apportez-moi la tablette.~
+@335   = ~Vous ne devez pas le permettre !~
+@336   = ~Quand on vit, on n'a pas le choix.~
+@337   = ~Avec l'aide de Sunie, je vous tuerai !~
+@338   = ~Un clerc vaniteux et un maudit guerrier~
+@339   = ~Que cherchez-vous au juste ?~
+@340   = ~On verra bien qui gagne.~
+@341   = ~Cyric, maintenant !~
+@342   = ~Il faut partir d'ici, vous savez ce qui va se passer !~
+@343   = ~Il veut nous tuer !~
+@344   = ~Toute vie devient mienne.~
+@345   = ~Son souffle sur ma nuque.~
+@346   = ~Le passé me donne la force de te vaincre.~
+@347   = ~Mais l'avenir m'appartient.~
+@348   = ~Sa vie devient notre mort.~
+@349   = ~Tant que j'espère, tant que je me bats !~
+@350   = ~Si la fin est là, tout espoir est perdu.~
+@351   = ~À la fin, il ne reste que les ténèbres.~
+@352   = ~Je ne fléchirai pas !~
+@353   = ~Alors tu le feras. Meurs.~
+@354   = ~Je suis la lumière, je brille intensément et te repousse.~
+@355   = ~Je suis les ténèbres et plus tu brilles, plus ton ombre s'épaissit.~
+@356   = ~Tu ne pourras pas les sauver !~
+@357   = ~À la fin, même toi, tu seras vaincue par moi, Mystra !~
+@358   = ~Arrête ! Ne bouge pas !~
+@359   = ~Oups, ce n'est pas bon Flo.~
+@360   = ~À votre réveil, vous avez un mal de tête terrible.~
+@361   = ~Ce baiser était sans doute incroyable, malheureusement, vous ne vous en souvenez pas.~
+@362   = ~Nous y voilà.~ [ZNOMOR27]
+@363   = ~Au sommet de ton empire, tu n’as nulle part où aller.~ [ZNOMOR28]
+@364   = ~Je n'abandonnerai pas, peut-être suis-je frappée par le destin, je crée maintenant !~
+@365   = ~Pathétique ! Que vas-tu faire ?~ [ZNOMOR29]
+@366   = ~Ahhh ! Meurs !~
+@367   = ~Maintenant, je vais m'emparer de ton pouvoir !~ [ZNOMOR30]
+@368   = ~Vous avez tué notre maître !~
+@369   = ~Nous vous détruirons !~
+@370   = ~Comme vous êtes malheureux depuis.~ [ZNOMOR44]
+@371   = ~Quoi ? Comment avez-vous pu survivre ?~ [ZNOMOR45]
+@372   = ~J’ai envoyé vos âmes dans l'au-delà !~ [ZNOMOR46]
+@373   = ~C’était moi, Mystra, déesse de la magie.~ [ZMYST07]
+@374   = ~Imbécile ! Vous ne pouvez plus les protéger !~ [ZNOMOR47]
+@375   = ~Vous n’êtes pas un dieu, et pourtant je ne suis pas impuissante.~ [ZMYST08]
+@376   = ~Je les tuerai d’une manière ou d’une autre. Votre fin approche.~ [ZNOMOR48]
+@377   = ~Que la bénédiction divine soit avec vous <CHARNAME>.~ [ZMYST09]
+@378   = ~Avec ou sans leur bénédiction, peu importe ! Vous allez mourir.~ [ZNOMOR49]
+@379   = ~Vous ne faites que retarder l'inévitable !~ [ZNOMOR56]
+@380   = ~Concentrez vos dernières réserves de force sur vos cibles.~ [ZNOMOR57]
+@381   = ~Que voulez-vous dire ?~ [ZMYST10]
+@382   = ~Il y a d'autres enfants de Bhaal dont je peux assimiler le pouvoir. Je n'ai pas besoin de cet Accord.~ [ZNOMOR58]
+@383   = ~Si vous êtes assez rapide, vous pouvez encore essayer et chuter  après les dieux comme Dix-Cités! Adieu <CHARNAME>.~ [ZNOMOR59]
+@384   = ~Avec un mauvais pressentiment, vous quittez la ville d'Anegh et poursuivez votre route avec le guide de montagne Anton, en direction des légions de la Chimère. Vous ignorez ce qui vous attend, mais vous avez la prémonition que ce sera fatal, et la seule question est de savoir si ce sera pour vous ou pour vos ennemis.
+
+Vous pensez à ces choses et à bien d'autres encore durant le long voyage par des chemins secrets vers les grandes grottes.
+
+Ces derniers jours, vous avez dormi parfois sans rêver, puis reveillé reposé. Jusqu'au dernier jour du voyage en montagne, où vous avez fait un rêve que vous n'oublierez pas de sitôt...~
+@385   = ~En sueur, vous vous relevez, ayant vaincu le dernier grand danger, et vous vous préparez à franchir l'entrée principale pour frapper la racine du mal et l'anéantir. Qui aurait cru que vous iriez si loin ? Pas vous-même. Malheureusement, le sentiment qui vous animait en entrant dans les montagnes était trompeur. Les montagnes étaient plus dangereuses que les attaques en ville. Pourtant, même sans soutien, vous n'auriez pas été bien loin avant d'arriver là.
+
+Étrangement, le mage Nomoran ne vous a pas apporté son aide et devient par conséquent source de méfiance. Ce n'est qu'une fois la situation apaisée, devant l'entrée principale, qu'il vous a proposé enfin l'aide dont vous auriez eu besoin. Que veut-il vraiment ? Si la ville comptait tant pour lui, il aurait agi bien davantage. Certes, il vous a sauvé en ville, mais l'étrange impression qu'il cache quelque chose vous taraude de plus en plus, et une pensée, tapie dans votre esprit, se fait jour : une trahison.
+Vous verrez bien si cette intuition se confirme, mais quoi qu'il arrive, vous restez sur vos gardes.
+
+Après un dernier regard dans la grotte, vous franchissez le portail vers l'inconnu...~
+@386   = ~Il semble que cette maison ait brûlé une fois. Vu son état, il est impossible d'y entrer sans danger.~
+@387   = ~Je ressens la puissance !~
+@388   = ~Quoi ? Ce n'est pas la toute-puissance...~
+@389   = ~Cyric, sale traître !~
+@390   = ~C'est un chemin à travers les montagnes, mais les sentiers sont si dangereux qu'on ne peut les parcourir en toute sécurité qu'avec un guide.~
+@391   = ~Le passage a été enseveli par les assaillants ; par cette route, personne ne peut retourner en Amn.~
+@392   = ~Agrandir le défilement des infobulles (par Taimon)~
+@393   = ~Ce mod est uniquement installable sur BG2:ToB, BGT, BG2:EE et EET.~
+@394   = ~Ce composant est uniquement pour BG2:ToB et BGT.~
+@10000 = ~Désactiver les sons.~
+@10001 = ~Le composant principal doit être installé au préalable.~
+@10002 = ~Extras~
+@10003 = ~Promenade de Waukyne (Chapitre 6).~
+@10004 = ~Désactiver Nomoran pour la zone suivante~
+@10005 = ~Amkethran (ToB)~
+@10006 = ~Reequilibrage des créatures~
+@10007 = ~Reequilibrage~
+@10008 = ~Reequilibrage des zones~
+@10009 = ~Reequilibrage des dialogues et des scripts~
+@10010 = ~Reequilibrage des boutiques~
+@10011 = ~Reequilibrage des objets~
+@10012 = ~Épée courte de la trahison, «La Lame des Ombres»
+
+La Lame des Ombres a été créée comme l'arme du crime parfait. Elle est convoitée par tous ceux qui règlent leurs différends par l'épée, et sa possession est rarement longue.
+
+CARACTÉRISTIQUES :
+
+THAC0 : +3
+Dégâts : 1D6 (perforant)
+Poids : 3
+Facteur de vitesse : 3
+Type de compétence : Épée courte
+Type : arme à une main
+Nécessite : 5 en Force
+
+Non utilisable par :
+  Druide
+  Clerc
+  Mage~
+@10013 = ~Lame stellaire +2
+
+Voici la légendaire Lame stellaire. On dit qu'elle provient de Mystra et qu'elle a été forgée personnellement par un mage. Aussi sacrée que les étoiles l'est aussi pour son porteur. Ce dernier peut résister à la magie dans une certaine mesure, et même la briser. Avec cette arme entre les mains, son porteur est le cauchemar de tout mage.
+
+PARAMÈTRES
+
+Résistance à la magie : 20 %
+
+Déclencheur de sort (1 fois par jour)
+Frappe magique (1 fois par jour)
+
+THAC0 : +2
+Dégâts : 1D12+2 (tranchant)
+Bonus de dégâts : +3 (magique)
+Poids : 11
+Facteur de vitesse : 6
+Type de compétence : Épée longue
+Type : 2 mains
+
+Non utilisable par :
+  Druide
+  Clerc
+  Mage
+  Voleur~
+@10014 = ~Lance du Dragon +2
+
+Cette lance est une arme redoutable contre les dragons. Forgée dans le feu du célèbre dragon Meliadus, elle possède des capacités incroyables. On imagine qu'au fil des siècles, elle a baigné dans le sang d'innombrables dragons. Forgée de cette puissance, elle inspire une confiance quasi invincible et n'hésite pas à affronter la silhouette imposante d'un dragon. 
+De plus, il convient de mentionner que, du fait de ce sentiment d'invincibilité que procure la lance, celui qui la porte sous-estime constamment ses adversaires, alors même que la lance a baigné dans le sang d'innombrables dragons ; mais vous ne voudriez pas savoir combien de fois ce sang était celui de son porteur.
+
+PARAMÈTRES
+
+Porteur sous l'effet de «Protection contre la peur»
+Force : +1
+Dextérité : -1
+
+THAC0 : +2
+Dégâts : 1D6+2 (perforant)
+Bonus de dégâts : +5 contre les dragons
+Poids : 5
+Facteur de vitesse : 5
+Type de compétence : Lance
+Type : arme à 2 mains
+Nécessite : 5 en Force
+
+Non utilisable par :
+  Clerc
+  Mage
+  Voleur~
+@10015 = ~Lame de Rose, Épée longue +2
+
+La lame possède une beauté surnaturelle. Il est fort probable que Sunie, déesse de la beauté et de la passion, ait participé à sa création. Quiconque prend l'arme en main peut immédiatement constater la transformation miraculeuse de son porteur. Au cours de l'histoire, cette arme a souvent servi secrètement à transporter un soldat discret à la cour d'un noble grâce à son allure impressionnante.
+
+PARAMÈTRES
+
+Charisme : +2
+
+THAC0 : +2
+Dégâts : 2D4+2 (tranchant)
+Poids : 3
+Facteur de Vitesse : 2
+Type de Compétence : Épée longue
+Type : arme à 1 main
+
+Non utilisable par :
+  Druide
+  Clerc
+  Mage
+  Voleur~
+@10016 = ~Arc d'Elsas Eladamri +3
+
+Voici le célèbre arc runique de l'elfe Elsas Eladamri, une légende de Krynn et visiteuse occasionnelle de la Côte des Épées. Cet arc offre une visée incroyablement facile et une certaine résistance aux attaques. Posséder ces runes gravées sur son arc est le rêve de tout archer.
+
+PARAMÈTRES
+
+Résistance à la magie : 20 %
+Le porteur peut appliquer +7 au THAC0 une fois par jour pendant 9 secondes.
+
+THAC0 : +3
+Dégâts : 3 (selon niveau)
+Bonus de dégâts : 3 (magique)
+Poids : 7
+Facteur de vitesse : 4
+Type de compétence : Arc long
+Type : Arme à 2 mains
+
+Non utilisable par :
+  Druide
+  Clerc
+  Mage
+  Voleur
+  Barde~
+@10017 = ~Voici la toute première Lame Noire du Destin. Elle fut créée par le Mage Daraknor, l'un des rares à maîtriser la magie de l'épée. La lame est née d'une faille dans la structure des plans. La puissance qui lui est inhérente est superlative. Avec un peu de chance, le porteur de cette lame peut terrasser son adversaire instantanément. De plus, à chaque dégât infligé à la victime par cette lame soigne également le porteur. Mais, un grand pouvoir implique de grands dangers. Puisque la lame crée une déchirure dans les plans, il est possible d'être entraîné et projeté brièvement dans un autre plan. Il arrive aussi qu'un autre être surgisse de cette brèche et attaque furieusement le porteur. On ignore comment traverser cette faille.
+
+PARAMÈTRES
+
+Chaque coup a 5 % de chances de tuer l'ennemi instantanément.
+Chaque coup a 10 % de chances de soigner 2D4 points de dégâts au porteur.
+THAC0 : +3
+
+Dégâts : 1D8+3 (tranchant)
+Bonus de dégâts : +1 (magique)
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : Épée longue
+Type : arme à 1 main
+Nécessite : 6 en Force
+
+Non utilisable par :
+  Druide
+  Clerc
+  Mage~
+@10018 = ~Cette épée a été créée par le légendaire guerrier-mage Tandos Anegh. Elle est spécifiquement conçue pour être utilisée par un mage au combat et pour le protéger. On l'appelle aussi l'Épée de la Terre, car elle dégage une influence apaisante qui permet même aux porteurs les plus impulsifs de prendre des décisions guidées par la raison plutôt que par les émotions. Un mage qui possède cette arme peut s'estimer chanceux. Puisque la lame a été raffinée grâce à un miroir magique, cette arme a désormais le pouvoir d'influencer la magie de ses ennemis.
+
+PARAMÈTRES
+
+Le porteur de cette épée longue peut la manier comme s'il était un Grand Maître dans cette compétence d'arme.
+Il est immunisé contre la peur et sa CA est augmentée de 3
+De plus, le porteur peut mémoriser un sort supplémentaire de niveau 4 et un autre de niveau 6.
+Le porteur est sous l'influence du sort «Déviation de sorts mineurs»
+
+THAC0 : +3
+Dégâts : 1D8+3 (tranchant)
+Bonus de dégâts : +2 (magique)
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : Épée longue
+Type : arme à 1 main
+Nécessite : 6 en Force
+
+Utilisable par :
+Mage d'alignement bon~
+@10019 = ~Cette épée a été créée par le légendaire guerrier-mage Tandos Anegh. Elle est spécifiquement conçue pour être utilisée par un mage au combat et pour le protéger. On l'appelle aussi l'Épée de la Terre, car elle dégage une influence apaisante qui permet même aux porteurs les plus impulsifs de prendre des décisions guidées par la raison plutôt que par les émotions. Un mage qui possède cette arme peut s'estimer chanceux.
+
+PARAMÈTRES
+
+Le porteur de cette épée longue peut la manier comme s'il était un Grand Maître dans cette compétence
+Il est immunisé contre la peur et sa CA est augmentée de 3
+De plus, le porteur peut mémoriser un sort supplémentaire de niveau 4 et un autre de niveau 6
+
+THAC0 : +2
+Dégâts : 1D8+2 (tranchant)
+Bonus de dégâts : +1 (magique)
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : Épée longue
+Type : arme à 1 main
+Nécessite : 6 en Force
+
+Utilisable par :
+  Mage d'alignement Bon~
+@99996 = ~Tant pis pour vous, vous allez périr, et après vous le monde entier !~
+@99997 = ~Nous ne nous rendrons jamais !~
+@99998 = ~C'est votre dernière chance, rendez-vous ! Sinon, mourrez tous !~
+@99999 = ~*Connecté*~
