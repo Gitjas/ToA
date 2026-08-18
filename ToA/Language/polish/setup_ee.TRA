@@ -1,0 +1,939 @@
+@3     = ~Pełna zbroja płytowa to najlepszy pancerz, jaki może zdobyć wojownik, zarówno pod względem wyglądu, jak i zabezpieczenia, jakie zapewnia. Idealnie dostosowane płyty i folgi zostały umieszczone pod takim kątem, żeby odbijać strzały i uderzenia. Cała zbroja jest bogato grawerowana i ozdobiona tłoczonymi zdobieniami.
+
+PARAMETRY:
+
+Klasa Pancerza: 1
+Waga: 70
+Wymagana siła: 15
+~ 
+@4     = ~Amulet~
+@5     = ~Amulet Wiatru~ 
+@6     = ~Amulet to biżuteria (czasami magiczna), która połączona z łańcuszkiem jest noszona na szyi. Rodzaj łańcuszka, na którym amulet jest zawieszony zwykle podnosi tylko jego walory estetyczne, a nie magiczne. Można nosić tylko jeden amulet na raz.~
+@7     = ~Amulet wiatru
+
+Kapłan "Bogów Żywiołu", który chciał cię zabić, zostawił po sobie dziwny, żółtawy amulet. Dotknięcie amuletu wywołuje w tobie uczucie pewnego niepokoju, które sprawia, że masz ochotę uciekać. Lepiej żeby ten łańcuch po prostu spoczywał w plecaku.~
+@8     = ~Miecz oburęczny~ 
+@9     = ~Anathros - Miecz Ziemi ~
+@10    = ~Miecz oburęczny pochodzi od miecza długiego. Płatnerze zawsze próbowali ulepszać istniejące odmiany oręża, dlatego w czasie prób nad udoskonaleniem miecza długiego wydłużono jego ostrze. To samo zrobiono z rękojeścią, gdyż do właściwego użycia tej broni były niezbędne obie ręce. Miecze oburęczne służyły zazwyczaj do atakowania rycerzy na koniach i do przełamywania formacji z pik.
+
+PARAMETRY:
+
+Obrażenia: 1K10
+Typ obrażeń: sieczne
+Waga: 15
+Opóźnienie: 10
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+Wymagana siła: 14
+~ 
+@11    = ~Miecz został stworzony przez legendarnego wojownika/maga o imieniu Tandos Anegh. Zaprojektowano go tak, by mógł być używany w bitwie przez maga chroniąc go jednocześnie. Oręż zwany jest Mieczem Ziemi, jako że wywiera kojący wpływ na użytkownika i sprawia, że jego decyzje są zdeterminowane nie przez emocje, ale przez umysł. Mag, który wszedł w posiadanie tej broni może uważać się za szczęśliwca.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +5, +1 od magii
+TraK0: +5
+Typ obrażeń: sieczne
+Specjalne:
+ +3 do Klasy Pancerza
+ Odporność na strach
+ Pozwala zapamiętać po jednym dodatkowym zaklęciu z 4. i 6. poziomu
+ Użytkownik włada tym mieczem jak Wielki Mistrz
+Waga: 15
+Opóźnienie: 10
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@12    = ~Ostrze Anathrosa~
+@13    = ~Jest to ostrze miecza. Bez pozostałych części, jak rękojeść, ostrze nie wydaje się użyteczne.~ 
+@14    = ~Klejnot rękojeści Anathrosa~
+@15    = ~Ten niewielki, pięknie zdobiony przedmiot jest częścią rękojeści miecza.~ 
+@16    = ~Rękojeść Anathrosa~
+@17    = ~Bez wątpienia jest to rękojeść miecza.~
+@18    = ~Odłamek magicznego lustra~
+@19    = ~To kawałek magicznego lustra, które tworzyło twoje duplikaty.~ 
+@20    = ~Miecz został stworzony przez legendarnego wojownika-maga o imieniu Tandos Anegh. Zaprojektowano go tak, by mógł być używany w bitwie przez maga chroniąc go jednocześnie. Oręż zwany jest Mieczem Ziemi, jako że wywiera kojący wpływ na użytkownika i sprawia, że jego decyzje są zdeterminowane nie przez emocje, ale przez umysł. Mag, który wszedł w posiadanie tej broni może uważać się za szczęśliwca. Miecz został ponadto udoskonalony odłamkiem magicznego zwierciadła i posiada teraz moc absorbowania zaklęć miotanych przez wrogów.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +6, +2 obrażeń od magii
+TraK0: +6
+Typ obrażeń: sieczne
+Specjalne:
+ +3 do Klasy Pancerza
+ Odporność na strach
+ Pozwala zapamiętać po jednym dodatkowym zaklęciu z 4. i 6. poziomu
+ Użytkownik włada tym mieczem jak Wielki Mistrz
+ Użytkownik znajduje się pod wpływem Mniejszego odchylenia czaru
+Waga: 15
+Opóźnienie: 10
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@21    = ~Amulet Lodu~ 
+@22    = ~Amulet Lodu
+
+Kolejny z amuletów "Bogów Żywiołów". Znani ci są tacy bogowie jak Auril - Pani Lodu czy Chauntea - Bogini Ziemi, jednakże na temat "Bogów Żywiołów" nic ci nie wiadomo. Amulet promieniuje lodowatym zimnem, jednak wydaje się nie mieć żadnych specjalnych właściwości.~ 
+@23    = ~Długi miecz~
+@24    = ~Czarne ostrze klęski~ 
+@25    = ~Do tej kategorii zaliczają się obusieczne miecze, miecze wojenne i wojskowe. Bardzo często miecze długie są jednosieczne. Nie istnieje jedna wersja broni tego typu; sposób wykonania i długość zależy od kultury, a nawet miejsca w obrębie jednego narodu, w którym wykuto ostrze. Ich najczęściej występującą wspólną cechą jest długość, wahająca się od 90 do 110 cm. Większość mieczy długich jest obusiecznych i ma zaostrzony koniec. Mimo ostrego końca, miecze te służą do zadawania ran siecznych, a nie kłutych.
+
+PARAMETRY:
+
+Obrażenia: 1K8
+Typ obrażeń: sieczne
+Waga: 4
+Opóźnienie: 5
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@26    = ~Jest to pierwsze z Czarnych ostrzy klęski. Zostało stworzone przez maga Daraknora - jednego z niewielu, którzy pojmowali magię zawartą w tym mieczu. Ostrze jest tak naprawdę szczeliną międzysferową. Moc w nim zawarta jest ogromna - przy odrobinie szczęścia władający mieczem może powalić wroga jednym uderzeniem. Dodatkowo trafienie tym mieczem może uleczyć właściciela. Wielka moc wiąże się jednak z wielkimi niebezpieczeństwami. Jako że uderzenie ostrzem wywołuje rozdarcie w planach, może się zdarzyć, że jego właściciel na krótki czas trafi do innej sfery. W podobny, choć niewyjaśniony sposób, udane trafienie tym mieczem może przywołać istotę z innej sfery, która zaatakuje jego właściciela.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +5, +1 obrażeń od magii
+TraK0: +5
+Specjalne:
+ 5% szansa na natychmiastowe zabicie przeciwnika
+ 10% szansa na rzucenie Leczenia lekkich ran na właściciela
+Typ obrażeń: sieczne
+Waga: 5
+Opóźnienie: 1
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@27    = ~Pas~
+@28    = ~Pas prawdziwego spojrzenia~
+@29    = ~Pasy są podobne do zwykłych pasków. W odróżnieniu jednak od tych ostatnich, nie służą podtrzymywaniu spodni i innych imponderabiliów, ale wiesza się na nich torby, sakwy, pochwy itp.
+
+PARAMETRY:
+
+Waga: 2~
+@30    = ~Pas pochodzi z odległej przeszłości, ale nadal tkwi w nim jego dawna moc. Został stworzony przez pewnego maga, który całe życie poświęcił na zgłębianie natury żyjących istot. Interesowało go w szczególności to, w jaki sposób sprawić, by aura każdej istoty stała się widzialna dla ludzkiego oka. Na prośbę swojego nieufnego władcy mag stworzył Pas prawdziwego spojrzenia. Przy jego użyciu król, zaniepokojony pogłoskami o próbach zamachu, był w stanie rozpoznać intencje każdej osoby, nawet niewidzialnej bądź kryjącej się w cieniach. Pas nie okazał się tak użyteczny, jak spodziewał się król. Mag, który go stworzył, zdradził swojego władcę, posłużywszy się uprzednio magią chroniącą go przed mocą pasa.
+
+PARAMETRY:
+
+Wykrycie niewidzialnego (raz dziennie)
+Rozproszenie magii (raz dziennie)
+Prawdziwe widzenie (raz dziennie)
+
+Waga: 2
+~
+@31    = ~Raport bitewny Nr 1~
+@32    = ~Raport bitewny Nr 1
+
+Jest to pierwszy z trzech raportów bitewnych wrogiej armii pod sztandarem Chimery. Raport zawiera dane o liczbie potworów, ludzi oraz mrocznych elfów w siłach wroga. Pozostałe mogą dotyczyć czasu i miejsca ataków.~
+@33    = ~Raport bitewny Nr 2~
+@34    = ~Raport bitewny Nr 2
+
+Jest to drugi z trzech raportów bitewnych wrogiej armii pod sztandarem Chimery. Raport zawiera dane o tym, kiedy oddziały wroga zajmą swoje pozycje i zaatakują. Pozostałe raporty mogą zawierać informacje o siłach wroga i rozmieszczeniu oddziałów.~
+@35    = ~Raport bitewny Nr 3~
+@36    = ~Raport bitewny Nr 3
+
+Jest to trzeci z raportów bitewnych wrogiej armii pod sztandarem Chimery. Raport zawiera informacje o rozmieszczeniu oddziałów wroga i celach ich przyszłych ataków. Pozostałe mogą zawierać dane o siłach wroga i o czasie ataku.~
+@37    = ~Początki Anegh~
+@38    = ~I Daraknor zamachnął się Czarnym ostrzem klęski uderzając w miejsce, w którym stał Anegh. Zdawało się, że rozbłysk światła rozłupał górę na dwie części. A kiedy wiatr rozwiał pył unoszący się w powietrzu, na polu walki pozostał tylko zwój. W ten sposób Narak Telnar, jedyny naoczny świadek tego zdarzenia, opisał walkę w górach i fakt uratowania przez Tandosa Anegha struktury sfer. By uhonorować dzielnego bohatera, Narak założył miasto nazwane jego imieniem...~
+@39    = ~Krótki miecz~
+@40    = ~Krótki miecz smoka~
+@41    = ~Pierwszymi mieczami jakie pojawiły się były właśnie krótkie miecze. Najprościej rzecz biorąc, jest to sztylet o ostrzu tak długim, że nie może być dłużej traktowany jak sztylet. Termin "krótki miecz" nie istnieje w żadnych klasyfikacjach mieczy. Tutaj oznacza on dwusieczne ostrze o długości około 60 centymetrów. Jego czubek jest zazwyczaj ostry, co sprawia, że doskonale służy do zadawania ran kłutych.
+
+PARAMETRY:
+
+Obrażenia: 1K6
+Typ obrażeń: kłute
+Waga: 3
+Opóźnienie: 3
+Rodzaj biegłości: krótki miecz
+Typ broni: 1-ręczna
+Wymagana siła: 5
+~
+@42    = ~Niezwykły miecz, wykuty przez kowala o imieniu Herenial, znanego zarówno z zamiłowania do wykonywanej pracy, jak również z tego, że był najbardziej niezdarną osobą w tej części Wybrzeża Mieczy. Nikt nie powinien jednak wiązać jego niezdarności z głupotą. Herenial był inteligentnym młodym człowiekiem o czystym sercu. Setki razy próbował wykuć miecz, ale nigdy nie udała mu się ta sztuka. 
+Każdego dnia pewien stary człowiek odwiedzał go i zachęcał do kontynuowania pracy. Przekonywał Hereniala, że jeśli nie będzie się poddawał, to pewnego dnia stworzy wyjątkowo potężny miecz. Dzisiaj przypuszcza się, że starzec był srebrnym smokiem, który przybrał formę człowieka. Pewnego dnia, kiedy w okolicy szerzyły się pogłoski o rabusiach i w wiosce potrzebne były dobrej jakości ostrza, Herenial znalazł w swojej kuźni łuskę srebrnego smoka. Postanowił użyć jej do wykonania miecza i po całonocnej pracy stworzył to wspaniałe ostrze. Dzierżąc w ręku nowy miecz Herenial bronił swojej wioski przed bandytami, a nawet zabił ich przywódcę. Niestety sam odniósł w tej walce śmiertelne rany i konając wypowiedział rzekomo te słowa: "Jedyna wartościowa rzecz, jaką stworzyłem. Niech służy do walki z nieprawością, a nie w złym celu..."
+
+Ostrze posiada lekki niebieskawy odcień, jaki mają nowonarodzone srebrne smoki.
+
+
+PARAMETRY:
+
+Obrażenia: 1K6 +3, +1 obrażeń od zimna, +5 przeciwko postaciom o złym charakterze
+TraK0: +3
+Specjalne:
+ +15% do odporności na zimno
+Typ obrażeń: kłute
+Waga: 3
+Opóźnienie: 3
+Rodzaj biegłości: krótki miecz
+Typ broni: 1-ręczna
+Wymagana siła: 5
+~
+@43    = ~Amulet Ziemi~
+@44    = ~Amulet Ziemi
+
+Jeden z amuletów żywiołów, noszony przez samozwańczego wielkiego kapłana, Tharosa. Co by się stało, gdyby połączyć ze sobą wszystkie te wisiorki?
+
+Tak czy inaczej amulet promieniuje uczuciem spokoju, który przywołuje ci na myśl lata spędzone w Candlekeep.~
+@45    = ~Gałązka nieznanego ziela~
+@46    = ~Jest to gałązka z suszonymi liśćmi i czerwonymi jagódkami, o których wspominał Emir. Jagody wyglądają na trujące, ale Emir sam będzie wiedział, co wolno mu palić, a czego nie.~
+@47    = ~Długi łuk refleksyjny~
+@48    = ~Długi łuk refleksyjny Elsasa~
+@49    = ~Łuki refleksyjne to łuki krótkie lub długie, których drzewce wykonano z kilku rodzajów drewna. Dzięki temu są bardziej sprężyste i mają większy zasięg. Wynaleziono je po długich łukach.
+
+PARAMETRY:
+
+Obrażenia: +1
+TraK0: +1
+Waga: 10
+Opóźnienie: 7
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+Wymagana siła: 18
+~
+@50    = ~Łuk Elsasa Eladamri +5
+
+Jest to słynny runiczny łuk elfa Elsasa Eladamri, legendy Krynn, który niekiedy gościł też na Wybrzeżu Mieczy. Celowanie przy użyciu tego łuku jest niesamowicie łatwe. Dodatkowo zdaje się on zapewniać odporność na niektóre rodzaje ataków. Posiadanie tego runicznego łuku jest marzeniem każdego łucznika.
+
+PARAMETRY:
+
+TraK0: +5
+Specjalne:
+ +3 obrażeń od magii
+ Raz dziennie może podnieść celność łuku o dodatkowe +7 do trafienia na 9 sekund
+Waga: 7
+Opóźnienie: 4
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+Wymagana siła: 18
+ ~
+@51    = ~Fajka~
+@52    = ~Fajka Emira~
+@53    = ~To jest fajka.~
+@54    = ~Jest to fajka Emira, sklepikarza z Anegh. Wygląda jakby była niedawno używana. Nadal czuć od niej bardzo przyjemny, wręcz urzekający zapach pochodzący prawdopodobnie od substacji, którą palił Emir.~
+@55    = ~Zwój Uwolnienia~
+@56    = ~Wygląda na to, że teraz zwój jest kompletny. Przypomina bardzo zwój z zaklęciem Uwolnienie, jednakże jest od niego dużo większy i wykonany w bardziej wyszukany sposób. Jego tekst wydaje się obszerniejszy niż tekst zwykłego zwoju Uwolnienia.~
+@57    = ~Fragment zwoju~
+@58    = ~Fragment wydaje się być częścią jakiegoś większego zwoju. Nie wiesz jednak, do czego miałby on służyć.~
+@59    = ~Młot bojowy~
+@60    = ~Złoty młot Berfota~
+@61    = ~Konni rycerze nie mogą efektywnie używać długich broni drzewcowych, co sprawiło, że wiele rodzajów broni zostało zaopatrzonych w krótsze drzewce, aby mogły być używane jednoręcznie. Wekiery i cepy bojowe są dwoma tego typu rodzajami broni drzewcowych - młot bojowy kolejnym. Cały jest wykonany ze stali, z dyskami, chroniącymi i wzmacniającymi uchwyt. Dyski te są małe i metalowe, często układane w dekoracyjne kształty. Drzewiec ma około 60 cm długości.
+
+PARAMETRY:
+
+Obrażenia: 1K4 +1
+Typ obrażeń: obuchowe
+Waga: 6
+Opóźnienie: 4
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+Wymagana siła: 9
+~
+@62    = ~Złoty młot Berfota
+
+Młot został wykonany ze szczerego złota i choć ma piękny wygląd, to w walce jest niezbyt użyteczny. Metal prawdopodobnie został utwardzony przy pomocy elfiej magii tak, by stał się trwalszy niż zwykłe złoto, jednakże Berfot - krasnoludzki kowal, nigdy by się do tego nie przyznał. Nawet jeśli młot został magicznie wzmocniony, dałoby się znaleźć daleko lepszy od niego oręż. Dzięki zaklęciom młot roztacza jednak niewątpliwy urok i przyciąga wzrok swoim pięknem, a jego właściciel wydaje się być bohaterem wielu zwycięskich bitew. 
+
+PARAMETRY:
+
+Obrażenia: 1K4 +1
+TraK0: +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Charyzma: 20
+ Pozwala rzucić Zaurocznie 2 razy dziennie
+Waga: 5
+Opóźnienie: 2
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+Wymagana siła: 9
+~
+@63    = ~Głowica złotego młota~
+@64    = ~Wygląda to na część młota, jednakże bez odpowiedniego trzonka nie da się złożyć go w całość. Przydatność takiego młota wydaje się być dyskusyjna, ponieważ głowica została wykonana z czystego złota. Tak czy inaczej za ten przedmiot można by uzyskać od każdego handlarza niezłą sumkę.~
+@65    = ~Trzonek złotego młota~
+@66    = ~Wydaje się, że to część młota. Zwykły, prosty trzonek, jednak z pewnością cenny, gdyż wykuto go ze szczerego złota. Cały młot powinien być wart dużo więcej.~
+@67    = ~Amulet~
+@68    = ~Amulet Chwały~
+@69    = ~Amulet Chwały
+
+Podobnie jak Złoty Młot, również i ten amulet wykonano ze szczerego złota i umagiczniono go elfimi zaklęciami (do czego krasnolud Berfot nigdy się nie przyzna). Oddziaływanie amuletu na ludzi nie jest tak silne jak w przypadku młota, jednak wystarczające, by uchodzić w oczach wielu za kogoś znacznego.
+
+Specjalne:
+ Raz dziennie pozwala rzucić Zauroczenie
+ Charyzma: 18
+~
+@70    = ~Miecz oburęczny~
+@71    = ~Rozpruwacz +12~
+@72    = ~Każdy, kto trzymał w ręku równie legendarny Lirarcor wie, że stwierdzenie "Moim bratem jest Rozpruwacz" zawiera w sobie prawdę.
+Zanim stali się mieczami, obaj bracia Lilarcor byli ludźmi: Lawrence Lilarcor - wioskowy głupiec i Andrew Lilarcor - szanowany wojownik i kowal.
+Cała historia rozpoczęła się wraz z wyprawą, jaką Lawrence przedsięwziął przeciwko "Treantowi". Po tym, jak powrócił on z wyrwanym z korzeniami dębem i narodziła się znana wszystkim legenda, nazwisko Lilarcor stało się synonimem głupca. Co gorsza, kiedy ludzie opowiadali tę historię posługiwali się wyłącznie nazwiskiem Lirarcor, bez wskazania o którego z braci chodzi.
+Andrew szczególnie ucierpiał z tego powodu. Chociaż był szanowanym w swojej wiosce kowalem, to jednocześnie jako wojownik podejmował w ciągu lata wyprawy po okolicy, by podnieść swoją siłę i umiejętności szermiercze. Jednakże po niesławnej przygodzie swojego brata, gdy sam wyruszył w podróż przez Wybrzeże Mieczy, spotkał się jedynie z  szyderstwami i przejawami pogardy.
+Nie mogąc się tym razem pochwalić żadnym szczególnym dokonaniem, a ponadto zrażony takim traktowaniem przez innych i wściekły na brata, Andrew przerwał przedwcześnie podróż i wrócił do domu. Tam spotkało go spore zaskoczenie. W czasie jego nieobecności wieśniacy okrzyknęli Lawrenca bohaterem! "Lawrence zabójca trolli!" - krzyczeli. 
+Historia mogłaby się w tym momencie dość szcześliwie zakończyć, jednakże tak się nie stało. Zamiast cieszyć się nieoczekiwanym sukcesem brata, Andrew zapałał do niego jeszcze większą nienawiścią. To on, Andrew, był dotąd bohaterem wioski i słynnym wojownikiem Wybrzeża Mieczy, a nie Lawrence! Jednak to Lawrence był traktowany w wiosce jak bohater, podczas gdy Andrew, doznawszy licznych niepowodzeń, wrócił sfrustrowany do domu.
+Zapytał zatem brata jak do tego wszystkiego doszło, zaś Lawrence opowiedział mu o dziwnym magu, od którego dostał księgę "Przewodnik wojownika." Po przestudiowaniu księgi stał się w niedługim czasie dużo lepszym wojownikiem.
+Pewnego dnia gromada trolli próbowała zaatakować słabo bronioną wioskę. Wieśniacy, choć nieobce im były niebezpieczeństwa, nie mieliby szans w walce z liczną grupą trolli. Lawrence nie wpadł jednak w panikę i pozabijał trolle dbając o to, by wieśniacy z pochodniami podążali za nim i dobijali trolle ogniem. W ten sposób Lawrence stał się bohaterem o przydomku "Zabójca trolli".
+Upłynęło kilka kolejnych tygodni, podczas których nienawiść Andrew do brata narastała coraz bardziej. W jego opinii Lawrence nie tylko splamił jego dobrą opinię na Wybrzeżu Mieczy, ale również sprawił, że teraz to on był postrzegany jako wioskowy idiota.
+Pewnego razu Andrew nie wytrzymał i podczas wspólnego polowania w lesie zaatakował Lawrenca. Obaj bracia byli świetnymi wojownikami i długo trwało, zanim jeden z nich osiągnął przewagę i zaczął przechylać szalę zwycięstwa na swoją stronę. Drugiemu z walczących udało się cudem uniknąć śmiertelnego ciosu, po czym obaj stracili równowagę i zsunęli się po stromym zboczu w głębszą, nieznaną im część lasu. Tam, choć ledwo żywi, ponownie rzucili się na siebie chcąc walczyć aż do śmierci któregoś z nich.
+Wówczas niespodziewanie pojawił się mag, od którego Lawrence kupił "Przewodnik wojownika" i któremu zawdzięczał swoją siłę. Widząc jak obaj bracia próbują nawzajem pozbawić się życia powiedział gniewnie: "Nie po to udostępniłem Lawrencowi tę moc, żeby konkurował z bratem, ale by dać wam okazję stania się niezwyciężonymi braćmi Lilarcor, bohaterami Wybrzeża Mieczy! Co jednak widzę?! Chcecie walczyć? Chcecie zabijać? Zatem dam wam ku temu sposobność, będziecie to robić po wsze czasy!" Gdy skończył wypowiadać te słowa obaj bracia zamienili się w miecze.
+
+W taki oto sposób zakończyła się smutna historia braci Lilarcor. Lawrence pozostał pyszałkowatym gadającym mieczem, ale nie nosi w sobie zła, w odróżnieniu od oręża, w który zamieniony został jego brat. Ponieważ Andrew przeistoczył się w miecz będąc przepełnionym nienawiścią, również i miecz jest nią nasycony. Zanikły też wszelkie ludzkie cechy Andrew i w odróżnieniu od Lawrenca nie wypowiada w postaci miecza żadnego słowa. Zawarta w mieczu wściekłość przenosi się też czasami na jego użytkownika. Wpada on wtedy w szał i bezustannie rąbie mieczem każdego w swoim zasięgu, stąd nazwa: Rozpruwacz. Wielu już próbowało zniszczyć to okryte złą sławą ostrze, jednak dotąd nikomu się to nie udało
+
+PARAMETRY:
+
+Obrażenia: 1K10 +12
+TraK0: +12
+Typ obrażeń: sieczne
+Specjalne:
+ +2K4 +1 obrażeń od ognia
+ +2K4 +1 obrażeń od chłodu
+ +2K4 +1 obrażeń od elektryczności
+ +1 do Siły
+ -1 do Inteligencji
+ Odporność na strach
+ Charakter właściciela zmienia się na praworządny zły
+ 40% szansa na otrzymanie przez właściciela 2K2+1 obrażeń
+ 5% szansa na natychmiastowe uśmiercenie przeciwnika, jeśli nie powiedzie mu się rzut obronny przeciw śmierci
+ 5% szansa na zatrucie przeciwnika na 10 rund
+ 5% szansa, że właściciel miecza otrzyma 2K2 obrażeń i wpadnie w szał berserkera
+Waga: 15
+Opóźnienie: 10
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+Wymagana siła: 14
+ ~
+@73    = ~Mikstura~
+@74    = ~Róg Naurandira~
+@75    = ~Mikstury są zazwyczaj przechowywane w ceramicznych, kryształowych, szklanych albo metalowych buteleczkach. Zawierają one wystarczająco dużo płynu, aby objąć swym działaniem jedną osobę.~
+@76    = ~Zawsze pełny róg trunku to marzenie każdego opoja! Ten róg wypełni się codziennie na nowo dzięki zastosowaniu potężnej magii z innej sfery. Tęgi łyk z rogu pozwoli zapomnieć o każdej ranie, wyleczy chorobę, zatrucie, oślepienie i głuchotę. Jednakże, jako że napój zawiera alkohol, pijący stanie się też nietrzeźwy. Obniży się jego zręczność (-2 do Zręczności), ale jednocześnie poczuje się silniejszy (+2 do Siły).
+
+~
+@77    = ~Klucz do namiotu~
+@78    = ~Ten klucz otwiera drewniane drzwi do namiotu w górach nieopodal Anegh. Przywódca nie lubi, by mu przeszkadzano, istnieją zatem tylko dwa klucze: jeden posiada jego adiutant w obozie, a drugi nosi przy sobie.~
+@79    = ~Ostrze Róż +3~
+@80    = ~Długi miecz +3: 'Ostrze Róż'
+
+Ten miecz ma nieziemski wygląd i prawdopodobnie do jego stworzenia przyczyniła się Sune, bogini piękna i namiętności. Natychmiast wywiera efekt na swym właścicielu, i niejednokrotnie miecz ten stał za wielką popularnością zwykłego żołnierza na dworze królewskim.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Specjalne:
+ +2 do Charyzmy
+ +2 do Siły
+Waga: 3
+Opóźnienie: 2
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@81    = ~Klucz do celi~
+@82    = ~Ten klucz zdaje się pasować do zamków w Lodowym Pałacu. Za jego pomocą można uwolnić innych więźniów.~
+@83    = ~Amulet Ognia~
+@84    = ~Szalony gnoll o imieniu Kalak miał przy sobie ten amulet. Nazywał siebie "kapłanem Bogów Żywiołów" i specjalizował się w magii ognia.
+
+Znani ci są tacy bogowie jak Auril - Pani Lodu czy Chauntea - Bogini Ziemi, na temat "Bogów Żywiołów" nic ci jednak nie wiadomo.
+Poza tym, że amulet wydziela przyjemne ciepło, nie wydaje się mieć żadnych specjalnych właściwości. Nie masz pojęcia, w jakim celu Kalak używał amuletu i do czego mógłby on ci się przydać. ~
+@85    = ~Wino Mefiza~
+@86    = ~Wino Mefiza
+
+To najlepsze wino Mefiza. Tak, właśnie tak.~
+@87    = ~Zwój~
+@88    = ~Boska kula ognista~
+@89    = ~Boska kula ognista
+(wywoływania)
+
+Poziom: 7
+Zasięg: pole widzenia
+Czas działania: natychmiastowy
+Czas rzucenia: 3
+Obszar działania: w promieniu 6 m
+Rzut obronny: 1/2
+
+Myrkul, zwany również Bogiem Zniszczenia, od początku istnienia materialnego świata darzył szczególnym szacunkiem potęgę ognia. W jego mniemaniu żaden inny żywioł nie potrafił w piękniejszy sposób zadawać obrażeń. Gdy nastąpił Czas Kłopotów, bóg Myrkul został zmuszony do wędrówki po świecie jako śmiertelnik, jednakże nawet wtedy nie zaprzestał badań nad tym zgadnieniem. Znał zaklęcie Ognistej kuli i wiedział o jego naturalnej potędze, ale jako bóg wiedział również, że ten czar posiada w rzeczywistości daleko bardziej niszczycielski potencjał. Po licznych próbach udało mu się powiązać moc Ognistej kuli z poziomem rozwoju rzucającego czar. Niestety zdążył spisać tylko jeden zwój z zaklęciem, zanim został pokonany przez Północ, znaną teraz jako Mystra, Bogini Magii.
+Boska kula ognista zadaje bazowo 2K6+4 punktów obrażeń oraz dodatkowo 1K6+1 na każdy poziom rzucającego, zatem mag na 10 poziomie zadałby 11K6+13 punktów obrażeń. W przeciwieństwie do ognistej kuli z poziomu trzeciego ta nie posiada górnej granicy zadawanych obrażeń. Boska kula ognista jest zatem powiązana z poziomem rozwoju duchowego osoby rzucającej czar. Z tego względu, jeżeli ofierze nie powiedzie się rzut obronny przeciw czarom i otrzyma ona znaczne obrażenia, wówczas jej dusza będzie próbowała opuścić ciało. Konsekwencją tego jest unieruchomienie ofiary. Istoty, którym uda się wykonać rzut obronny, uskakują, padają na ziemię lub przetaczają się, otrzymując tylko połowę obrażeń i unikając unieruchomienia.
+~
+@90    = ~Zwój ochronny~
+@91    = ~Smoczy zwój ochronny~
+@92    = ~Zwoje ochronne są pokryte magicznymi runami, zapisanymi na zaklętej materii. Może je przeczytać każdy, niezależnie od tego czy jest magiem czy też nie. Podczas czytania, zwój wyzwala magię, która tworzy ochronną sferę wokół wskazanej osoby. Istnieje wiele rodzajów zwojów ochronnych, należy jednak uważać na te, które pochodzą z niepewnego źródła.~
+@93    = ~Smoczy zwój ochronny
+
+Na zwoju znajdują się dziwne znaki, jednakże wśród nich da się jednoznacznie odróżnić wizerunek smoka. Co to wszystko może oznaczać?~
+@94    = ~Sapientiatus~
+@95    = ~Amulet to biżuteria (czasami magiczna), która połączona z łańcuszkiem jest noszona na szyi. Rodzaj łańcuszka, na którym amulet jest zawieszony zwykle podnosi tylko jego walory estetyczne, a nie magiczne. Można nosić tylko jeden amulet na raz.~
+@96    = ~Sapientiatus
+
+Nazwa "Sapientiatus" wywodzi słowa "sapientia", które w pewnym starym języku oznacza mądrość. Amulet ten posiada szczególną moc, która pozwala noszącemu skupić się i wniknąć głęboko w swój umysł, by odkryć tam ukryte pokłady mądrości.
+Nie wiadomo dokładnie kto wykonał amulet. Stwierdzono jednak, że w czasie jego tworzenia nastąpiła pewna pomyłka mająca negatywny wpływ na użyteczność amuletu. Osoba, która go założy staje się nieco bardziej podatna na działanie trucizn i śmiertelnej magii.
+
+PARAMETRY:
+
+Specjalne:
+ +6 do Mądrości
+ -1 do rzutów obronnych przeciw śmierci
+~
+@97    = ~Włócznia~
+@98    = ~Włócznia smoka +3~
+@99    = ~Włócznia to jeden z najwcześniejszych rodzajów broni, którymi zaczął posługiwać się człowiek. Pierwsze egzemplarze tej broni były wykonane z drewna i zaostrzone na końcu. Kiedy człowiek nauczył się wytapiać metale, groty włóczni były wytwarzane z żelaza i stali. W pewnym momencie zaczęto eksperymentować z różnymi typami grotów; w ten sposób powstały różne typy broni drzewcowej.
+
+PARAMETRY:
+
+Obrażenia: 1K6
+Typ obrażeń: kłute
+Waga: 5
+Opóźnienie: 6
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@100   = ~Włócznia smoka +3
+
+Jest to oręż szczególnie potężny w walce ze smokami. Wykonana niegdyś w ogniu słynnego smoka Meliadusa, ta włócznia posiada niezwykłe właściwości. Powiadają, że w ciągu wieków skąpała się we krwi niezliczonych smoków. Może to ta wiedza, a może specjalna magia sprawia, że władający włócznią czuje się silniejszy i niemal niezwyciężony, nie ulegając strachowi, jaki normalnie wywołuje obecność smoka. 
+Należy przy tym wspomnieć, że z powodu uczucia nadmiernej pewności siebie, które zapewnia włócznia, posługujący się nią wojownik zaczyna lekceważyć przeciwników i walczy nieco nonszalancko.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +3, +5 przeciwko smokom
+TraK0: +3
+Typ obrażeń: kłute
+Specjalne:
+ Ochrona przed strachem
+ +1 do Siły
+ -1 do Zręczności
+Waga: 5
+Opóźnienie: 6
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@101   = ~Płaszcz~
+@102   = ~Widmowy płaszcz~
+@103   = ~Płaszcz można skroić w każdy z możliwych kształtów i z prawie każdego materiału. Najczęstszą formą jest okrągły kawał materiału z otworem w środku na głowę, udrapowany na karku, połączony łańcuchem, broszą albo spinką.~
+@104   = ~Widmowy płaszcz
+
+Różnego rodzaju materiały i zaklęcia posłużyły do stworzenia tego płaszcza, który łączy w sobie potęgę wszystkich żywiołów: żar ognia, chłód lodowatej wody, szybkość wiatru i czystość serca.
+Płaszcz został jednak utkany przez jednego ze znaczniejszych demonów o imieniu Beredil, który miał dość tego, że poszczególne żywioły były dotąd kontrolowane przez różne demony, a nie przez jednego. Niedługo po stworzeniu tego płaszcza Beredil został zabity przez swojego brata, Beresila, nie mając nawet szansy na użycie zawartej w płaszczu mocy. Na tym Beresil, demon ognia, nie poprzestał. Pokonał także inne demony i przez wieki żył pod przydomkiem "Boga Żywiołów".
+Żył zaś długo i względnie bezpiecznie, ponieważ płaszcz chronił go przed wszystkimi żywiołami oraz pozwalał je w pewnym stopniu kontrolować. Niestety szerokie spektrum magii użytej do stworzenia płaszcza wywiera negatywny wpływ na umiejętności ukrywania się i cichego poruszania, które zostają u noszącego znacząco ograniczone.
+
+PARAMETRY:
+
+Specjalne:
+ Klasa Pancerza: +1
+ +15% do odporności na elektryczność
+ +15% do odporności na ogień
+ +15% do odporności na chłód
+ +15% do odporności na trucizny
+ Pozwala rzucać Przywołanie żywiołaka ognia (raz dziennie)
+ Pozwala rzucać Stożek zimna (raz dziennie)
+ -1 do wszystkich rzutów obronnych
+ -30 do Cichego chodzenia
+ -30 do Krycia się w cieniu
+
+Waga: 3
+~
+@105   = ~Niewyczerpany Słoneczny Napój~
+@106   = ~Niewyczerpany Słoneczny Napój
+
+Napój stworzony przez samego Lathandera, Pana Poranka, który zawarł w nim potęgę słońca. Dzięki temu flaszka zawierająca cenny płyn każdego ranka napełnia się i jest gotowa do ponownego użycia. Leczy rany i wszelkie dolegliwości trapiące organizm, neutralizuje również działanie trucizn.
+Napój ten, dzięki swoim magicznym właściwościom, ocalił już życie niejednego poszukiwacza przygód.
+
+PARAMETRY:
+
+Specjalne:
+ Raz dziennie całkowicie leczy użytkownika.
+
+Waga: 1
+~
+@107   = ~Gwiezdne ostrze~
+@108   = ~Gwiezdne ostrze +6
+
+Jest to legendarne Gwiezdne ostrze wykonane prawdopodobnie przez samą Mystrę. Użytkownik miecza staje się tak nietykalny jak gwiazdy na niebie, ponieważ oręż zapewnia znaczną odporność na obrażenia magiczne, a dodatkowo pozwala na rzucenie zaklęcia ochronnego. Jednocześnie miecz umożliwia rozproszenie magicznych osłon przeciwnika, co sprawia, że jest koszmarem każdego wrogiego maga.
+
+PARAMETRY:
+
+Obrażenia: 1K12 +6
+TraK0: +6
+Typ obrażeń: sieczne
+Specjalne:
+ +20% do odporności na magię
+ Pozwala rzucać Odchylenie czaru (raz dziennie)
+ Pozwala rzucać Uderzenie czaru (raz dziennie)
+Waga: 11
+Opóźnienie: 6
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+Wymagana siła: 14
+~
+@109   = ~Krótki miecz oszustwa~
+@110   = ~Krótki miecz oszustwa 'Cieniste ostrze'
+
+Cieniste ostrze zostało stworzone jako doskonałe narzędzie mordu. Jest szczególnie pożądane przez tych, którzy różnice zdań rozstrzygają za pomocą miecza, i z tego zapewne powodu dość często zmieniało właściciela.
+
+PARAMETRY: 
+
+Obrażenia: 1K6
+TraK0: +5
+Typ obrażeń: kłute
+Waga: 3
+Opóźnienie: 0
+Rodzaj biegłości: krótki miecz
+Typ broni: 1-ręczna
+Wymagana siła: 5
+~
+@111   = ~Magiczna tabliczka~
+@112   = ~Magiczna tabliczka
+
+Nie masz pojęcia do czego służy ta tabliczka. Znajdują się na niej tylko zagadkowe zapiski. Wystarczy jednak jej dotknąć, aby poczuć pod palcami dziwne wibracje. Utwierdza cię to w przekonaniu, że jest to przedmiot magiczny.~
+@113   = ~Aruba~
+@114   = ~Balor~
+@115   = ~Barbados~
+@116   = ~Nomartyrinakor~
+@117   = ~Belakord~
+@118   = ~Magicus Bibliopola~
+@119   = ~Bote~
+@120   = ~Upadły Deva~
+@121   = ~Drow wojownik~
+@122   = ~Drow kapłan~
+@123   = ~Dyrianne~
+@124   = ~Elsas Eladamri~
+@125   = ~Eritrea~
+@126   = ~Syrelin~
+@127   = ~Estgalon~
+@128   = ~Tyrina~
+@129   = ~Meralok~
+@130   = ~Ghana~
+@131   = ~Dowódca Merathon~
+@132   = ~Dowódca Chamarol~
+@133   = ~Dowódca Tikyra~
+@134   = ~Dowódca Brenlak~
+@135   = ~Dowódca Lyzikaro~
+@136   = ~Dowódca Otok~
+@137   = ~Porucznik Hibiz~
+@138   = ~Hobgoblin Chimery~
+@139   = ~Asant~
+@140   = ~Perilla~
+@141   = ~Sumach~
+@142   = ~Mohn~
+@143   = ~Kaper~
+@144   = ~Wojownik Yuan-Ti Chimery~
+@145   = ~Mag z Północy~
+@146   = ~Mandrell~
+@147   = ~Mystra~
+@148   = ~Naurandir~
+@149   = ~Generał Nekernar~
+@150   = ~Kapłan Bhaala~
+@151   = ~Łucznik z Północy~
+@152   = ~Kapłan Chimery~
+@153   = ~Kapłan z Północy~
+@154   = ~Serinthol~
+@155   = ~Cardamom~
+@156   = ~Porree~
+@157   = ~Salep~
+@158   = ~Mitsuba~
+@159   = ~Kerbel~
+@160   = ~Parsnips~
+@161   = ~Mag Yuan-Ti Chimery~
+@162   = ~Wojownik z Północy~
+@163   = ~Elitarny Yuan-Ti Chimery~
+@164   = ~Zwiadowca~
+@165   = ~Marilith~
+@166   = ~Paladyn z Północy~
+@167   = ~Złodziej Chimery~
+@168   = ~Straronack~
+@169   = ~Taralok~
+@170   = ~Chad~
+@171   = ~Starszy wampir~
+@172   = ~Starszy wampir~
+@173   = ~Adon~
+@174   = ~Alastin~
+@175   = ~Arya~
+@176   = ~Beredil~
+@177   = ~Berfot~
+@178   = ~Górski przewodnik Anton~
+@179   = ~Tendor~
+@180   = ~Bhaal~
+@181   = ~Bianca~
+@182   = ~Ciemność~
+@183   = ~Nanos~
+@184   = ~Kapłan z Anegh~
+@185   = ~Cyric~
+@186   = ~Arazitorinaro~
+@187   = ~Dalmaran~
+@188   = ~Dananell~
+@189   = ~Daraknor~
+@190   = ~Davian~
+@191   = ~Deria' Heriol~
+@192   = ~Treser smoka~
+@193   = ~Donorell~
+@194   = ~Dorenei~
+@195   = ~Tizirko~
+@196   = ~Duergar~
+@197   = ~Elf wojownik~
+@198   = ~Elminster~
+@199   = ~Emir~
+@200   = ~Strach~
+@201   = ~Namiętność~
+@202   = ~Alexander Galor~
+@203   = ~Florian Galor~
+@204   = ~Generał Korod~
+@205   = ~Gnoll Chimery~
+@206   = ~Goliat~
+@207   = ~Strażnik z Anegh~
+@208   = ~Naraneleth~
+@209   = ~Głównodowodzący Borot~
+@210   = ~Horoth~
+@211   = ~Nienawiść~
+@212   = ~Ibar~
+@213   = ~Igor~
+@214   = ~Generał Jahori~
+@215   = ~Dziewica~
+@216   = ~Kalak~
+@217   = ~Kurczak zabójca~
+@218   = ~Kelemvor~
+@219   = ~Lilly~
+@220   = ~Kapitan Loret~
+@221   = ~Mael~
+@222   = ~Mag z Anegh~
+@223   = ~Magus Terrinos~
+@224   = ~Mahan~
+@225   = ~Malak~
+@226   = ~Marlik~
+@227   = ~Mary~
+@228   = ~Lustrzany Obraz~
+@229   = ~Mefiz~
+@230   = ~Północ~
+@231   = ~???~
+@232   = ~Nicole~
+@233   = ~Nipatar~
+@234   = ~Nomoran~
+@235   = ~Numatiaro~
+@236   = ~Orog Chimery~
+@237   = ~Pat~
+@238   = ~Picard~
+@239   = ~Piri~
+@240   = ~Strażnik portalu~
+@241   = ~Rasam~
+@242   = ~Sarah~
+@243   = ~Horror bitewny~
+@244   = ~Mag symboli~
+@245   = ~Żołnierz z Anegh~
+@246   = ~Najemnik Chimery~
+@247   = ~Świetlista postać~
+@248   = ~Tandos Anegh~
+@249   = ~Tolonek~
+@250   = ~Tortarinelok~
+@251   = ~Tuluk~
+@252   = ~Ojciec Piriego~
+@253   = ~Piekielny strażnik~
+@254   = ~Winifred~
+@255   = ~Winnibald Lunatyk~
+@256   = ~Mag słów~
+@257   = ~Zehlar~
+@258   = ~Generał Zahiki~
+@259   = ~Zanaih~
+@260   = ~Obóz wojskowy~
+@261   = ~Cyriku, daję ci odwagę, abyś zabił Bhaala.~
+@262   = ~Uwolnij Północ!~
+@263   = ~W takim razie daj mi tablice.~
+@264   = ~Nie można do tego dopuścić!~
+@265   = ~Kiedy żyjecie, nie macie wyboru.~
+@266   = ~Na Sune! Zabiję cię!~
+@267   = ~Nędzny kapłan i przeklęty wojownik~
+@268   = ~Co chcesz osiągnąć?~
+@269   = ~Zobaczymy kto wygra.~
+@270   = ~Teraz, Cyriku!~
+@271   = ~Musimy się stąd wydostać. Widzisz co się dzieje!~
+@272   = ~Czas umierać!~
+@273   = ~Co?!~
+@274   = ~Pomocy!~
+@275   = ~Powstrzymamy cię, demonie!~
+@276   = ~Używa mocy Bhaala.~
+@277   = ~Łańcuch czarów~
+@278   = ~Jesteś za daleko, by wejść do jaskini.~
+@279   = ~Nie możesz wejść do jaskini w czasie walki!~
+@280   = ~Jeśli chcesz, możesz wejść do jaskini.~
+@281   = ~Warunkowanie~
+@282   = ~Jesteś za daleko, by tego użyć.~
+@283   = ~Możesz napić się z fontanny, jeśli chcesz.~
+@284   = ~Czujesz się odświeżony i wzmocniony przed kolejną walką.~ ~Czujesz się odświeżona i wzmocniona przed kolejną walką.~
+@285   = ~Czujesz jak materia magii dotyka cię i obdarza błogosławieństwem.~
+@286   = ~Trumna jest pusta.~
+@287   = ~Nie masz drewnianego kołka, by przebić serce wampira.~
+@288   = ~Wbijasz drewniany kołek w mroczne serce wampira. Potwór już nigdy więcej nie pożywi się krwią innych istot.~
+@289   = ~Wampir nie żyje, a trumna cuchnie zgnilizną. Nie masz tu niczego więcej do zrobienia.~
+@290   = ~Młot został wykuty. Nie ma tu nic więcej do zrobienia.~
+@291   = ~Brakuje ci czegoś, by stworzyć młot.~
+@292   = ~Na północ od tego miejsca wyczuwasz wielką moc i obawiasz się, że możesz jej nie sprostać.~
+@293   = ~Co? Dlaczego się tu znalazłem? Nie!!~
+@294   = ~Żegnam!~
+@295   = ~Bardzo interesujące. Silna demoniczna aura.~
+@296   = ~Zobaczmy kto to jest, a potem posiądę jego moc.~
+@297   = ~AAAaarggh!!!....... Co? Dlaczego ja żyję?~
+@298   = ~Żebyś mógł oddać mi swoją moc.~
+@299   = ~Nigdy! Zniszczę cię!~
+@300   = ~Kiedy zbliżasz się do tego miejsca, czujesz przenikającą cię moc, a część zwoju zaczyna błyszczeć.~
+@301   = ~Kiedy zbliżasz się do tego miejsca, czujesz przenikającą cię moc, a części zwoju zaczynają błyszczeć.~
+@302   = ~Kiedy zbliżasz się do tego miejsca, czujesz przenikającą cię moc, a części zwoju zaczynają błyszczeć.~
+@303   = ~Nie ma tu nic więcej do zrobienia.~
+@304   = ~Drzwi przez wymiary~
+@305   = ~Śpiewa pieśń bitewną~
+@306   = ~Atak z ukrycia - podwójne obrażenia~
+@307   = ~Pułapka uruchomiona~ [AMB_D05C]
+@308   = ~Dziwnego koloru napój, który możesz wypić, jeśli chcesz.~
+@309   = ~Pijesz miksturę.~
+@310   = ~Naczynie jest puste.~
+@311   = ~Transformacja Laplace'a na trójkącie gwiazd.... huch! Co za nonsens! Nonsens!!~
+@312   = ~Ach, stół pełen książek... Wspaniałe.~
+@313   = ~Co mam dziś na siebie włożyć? A może znowu będę nago, to teraz modne!~
+@314   = ~Co ja tu robię? Gdzie jestem!~
+@315   = ~Hmm... Ach... ooo, nie, to nie to, ale też bardzo ciekawe.~
+@316   = ~Uwielbiam moje zapisy zaklęć, przypominają mi popcorn.~
+@317   = ~Gdzie mój Hyperiroptrokis?~
+@318   = ~Nie mam pojęcia gdzie twój Hyperiroptrokis.~
+@319   = ~A co to jest Hyperiroptrokis?~
+@320   = ~Nie wiem, to ty o tym wspomniałeś!~ ~Nie wiem, to ty o tym wspomniałaś!~
+@321   = ~Nie, to ty!~
+@322   = ~Teraz jestem w kłopocie.~
+@323   = ~Oops, pomyłka!~
+@324   = ~Hmm, zatem przetrwaliście pierwszą falę ataków. No cóż, Korod okazał się być nieudolnym generałem. Następne uderzenie was zmiecie! Łucznicy, do mnie!~
+@325   = ~Mam nadzieję, że pomogliśmy. Teraz jesteś zdany tylko na siebie.~ ~Mam nadzieję, że pomogliśmy. Teraz jesteś zdana tylko na siebie.~
+@326   = ~Elbereth na Toraratok berend thesa~
+@327   = ~Vinirelo Mortis beratina kerenerolato~
+@328   = ~Jaskinia otwarta, powodzenia!~
+@329   = ~Czas skosztować twojego serca!~
+@330   = ~Proszę, nie zabijaj mnie!~
+@331   = ~Zabijemy was wszystkich!~
+@332   = ~Cyriku, daję ci odwagę, abyś zabił Bhaala.~
+@333   = ~Uwolnij Północ!~
+@334   = ~W takim razie daj mi tablice.~
+@335   = ~Nie można do tego dopuścić!~
+@336   = ~Kiedy żyjecie, nie macie wyboru.~
+@337   = ~Na Sune! Zabiję cię!~
+@338   = ~Nędzny kapłan i przeklęty wojownik.~
+@339   = ~Co chcesz osiągnąć?~
+@340   = ~Zobaczymy kto wygra.~
+@341   = ~Teraz, Cyriku!~
+@342   = ~Musimy się stąd wydostać. Widzisz co się dzieje!~
+@343   = ~On chce nas zabić!~
+@344   = ~Całe to życie będzie moje.~
+@345   = ~Czuję w pobliżu jego obecność.~
+@346   = ~Przeszłość daje mi siłę, by cię pokonać.~
+@347   = ~Ale przyszłość należy do mnie.~
+@348   = ~Jego życie staje się naszą śmiercią.~
+@349   = ~Jak długo tli się we mnie nadzieja, tak długo będę walczyć!~
+@350   = ~Kiedy to się zakończy, zginie cała nadzieja.~
+@351   = ~Na końcu pozostaje jedynie ciemność.~
+@352   = ~Nie cofnę się przed tobą!~
+@353   = ~W takim razie zginiesz.~
+@354   = ~Jestem światłością. Płonę jasno i zmuszę cię do odwrotu.~
+@355   = ~Ja zaś jestem ciemnością. Im jaśniej świecisz, tym ciemniejszy staje się twój cień.~
+@356   = ~Nie będziesz w stanie ich uratować!~
+@357   = ~W końcu pokonam i ciebie, Mystro!~
+@358   = ~Stać! Zatrzymać się!~
+@359   = ~Ooch, nie jest dobrze, Flo.~
+@360   = ~Kiedy się budzisz, odczuwasz ogromny ból głowy.~
+@361   = ~Ten pocałunek musiał być niesamowity. Niestety nie przypominasz go sobie.~
+@362   = ~I oto jesteśmy.~ [ZNOMOR27]
+@363   = ~Na szczycie twojego pałacu. Stąd nie masz już dokąd uciec.~ [ZNOMOR28]
+@364   = ~Nie poddam się. Może jestem ranny, ale będę walczył!~
+@365   = ~Żałosne! Co teraz zrobisz?~ [ZNOMOR29]
+@366   = ~Aach! Giń!~
+@367   = ~Teraz przejmę twoją moc!~ [ZNOMOR30]
+@368   = ~Zabiłeś naszego pana!~
+@369   = ~Zniszczymy cię!~
+@370   = ~Jesteście tacy żałośni.~ [ZNOMOR44]
+@371   = ~Co? Jak udało ci się przeżyć?~ [ZNOMOR45]
+@372   = ~Wysłałem twoją duszę w daleką podróż!~ [ZNOMOR46]
+@373   = ~To sprawiłam ja, Mystra - bogini magii.~ [ZMYST07]
+@374   = ~Głupia! Nie możesz go dłużej ochraniać!~ [ZNOMOR47] ~Głupia! Nie możesz jej dłużej ochraniać!~
+@375   = ~Póki co nie jesteś bogiem, a ja nie jestem jeszcze bezsilna.~ [ZMYST08]
+@376   = ~Zabiję go w ten czy inny sposób. Twój koniec się zbliża.~ [ZNOMOR48] ~Zabiję ją w ten czy inny sposób. Twój koniec się zbliża.~
+@377   = ~Masz boskie błogosławieństwo, <CHARNAME>.~ [ZMYST09]
+@378   = ~Z twoim błogosławieństwem czy bez, to nieistotne! Wszyscy zginiecie.~ [ZNOMOR49]
+@379   = ~Tylko opóźniasz to, co nieuniknione!~ [ZNOMOR56]
+@380   = ~Lepiej zachowaj ostatnie siły dla swoich podopiecznych.~ [ZNOMOR57]
+@381   = ~Co masz na myśli?~ [ZMYST10]
+@382   = ~Są też inne dzieci Bhaala, których moc mogę przejąć. Niepotrzebne mi to wszystko.~ [ZNOMOR58]
+@383   = ~Jeśli będziesz wystarczająco szybki, będziesz mógł obejrzeć klęskę Dziesięciu Miast, a później upadek bogów! Żegnaj, <CHARNAME>.~ [ZNOMOR59] ~Jeśli będziesz wystarczająco szybka, będziesz mogła obejrzeć klęskę Dziesięciu Miast, a później upadek bogów! Żegnaj, <CHARNAME>.~
+@384   = ~Ponure myśli towarzyszą ci, kiedy opuszczasz Anegh i wraz z przewodnikiem Antonem przedzierasz się przez góry na spotkanie z Legionem Chimery. Nie wiesz dokładnie co cię tam czeka, przeczuwasz jednak, że będzie to śmiertelne starcie. Nie potrafisz sobie odpowiedzieć na pytanie, czy okaże się ono zabójcze dla ciebie, czy dla twoich wrogów. 
+Na takich rozmyślaniach upływa ci długa podróż ukrytymi ścieżkami prowadzącymi do wielkich jaskiń.
+
+Kilka ostatnich nocy, bez koszmarów nękających twoje myśli, przyniosło ci prawdziwe ukojenie. Aż do ostatniego noclegu w górach, kiedy przytrafił ci się sen, którego długo nie zapomnisz...
+~
+@385   = ~Jeszcze nie opadło z ciebie zmęczenie po ostatniej walce, a już czeka na ciebie kolejne wyzwanie - masz odszukać i zniszczyć źródło zła. Kto by pomyślał, że zajdziesz tak daleko. Niestety, nadal nie opuszczają cię podejrzenia, które zakiełkowały w twojej głowie jeszcze przed wejściem w góry.
+
+Dość zadziwiające wydaje ci się to, że Nomoran nie przyszedł ci z pomocą. Dopiero teraz, kiedy niebezpieczeństwo minęło i stoisz przed przejściem, on oferuje ci wsparcie, które było potrzebne wcześniej. Czego on tak naprawdę chce? Jeżeli miasto tak wiele dla niego znaczy, to powinien zaangażować się bardziej. Prawdą jest, że uratował cię podczas walki w mieście, ale mimo to narasta w tobie coraz silniejsze przeczucie, że jednak coś ukrywa. W twojej głowie pojawia się myśl: zdrada.
+Nie masz pewności czy to przeczucie się potwierdzi, jednak wiesz, że należy zachować ostrożność.
+
+Po raz ostatni rozglądasz się po jaskini, po czym przechodzisz przez portal wkraczając w nieznane...
+~
+@386   = ~Ten dom spłonął jakiś czas temu. Wejście do niego nie jest możliwe.~
+@387   = ~Czuję moc!~
+@388   = ~Co takiego? To nie jest cała moc...~
+@389   = ~Cyriku, ty zdrajco!~
+@390   = ~Ta droga przez góry jest na tyle niebezpieczna, że można ją pokonać wyłącznie z doświadczonym przewodnikiem.~
+@391   = ~Przejście zostało zasypane przez najeźdźców. Tą drogą nie da się wrócić do Amn.~
+@392   = ~Wieksze zwoje z opisami (by Taimon)~
+@393   = ~Ten mod dedykowany jes do BG2:ToB, BGT, BG2:EE, EET~
+@394   = ~Ten komponent jest tylko dla BG2:ToB, BGT~
+@10000 = ~Usuniecie dzwiekow~
+@10001 = ~Glowny komponent musi byc zainstalowany~
+@10002 = ~Dodatki~
+@10003 = ~Promenada Waukeen (Rozdzial 6)~
+@10004 = ~Usun Nomorana z nastepujacych lokacji~
+@10005 = ~Amkethran (ToB)~
+@10006 = ~Zbalansowane stworzenia~
+@10007 = ~Zbalansowanie~
+@10008 = ~Zbalansowane lokacje~
+@10009 = ~Zbalansowane dialogi i skrypty~
+@10010 = ~Zbalansowane sklepy~
+@10011 = ~Zbalansowane przedmioty~
+@10012 = ~Krótki miecz oszustwa 'Cieniste ostrze'
+
+Cieniste ostrze zostało stworzone jako doskonałe narzędzie mordu. Jest szczególnie pożądane przez tych, którzy różnice zdań rozstrzygają za pomocą miecza i z tego zapewne powodu dość często zmieniało właściciela.
+
+PARAMETRY: 
+
+Obrażenia: 1K6 +2
+TraK0: +5
+Typ obrażeń: kłute
+Waga: 3
+Opóźnienie: 0
+Rodzaj biegłości: krótki miecz
+Typ broni: 1-ręczna
+Wymagana siła: 5
+~
+@10013 = ~Gwiezdne ostrze +2
+
+Jest to legendarne Gwiezdne ostrze wykonane prawdopodobnie przez samą Mystrę. Użytkownik miecza staje się tak nietykalny jak gwiazdy na niebie, ponieważ oręż zapewnia znaczną odporność na obrażenia magiczne, a dodatkowo pozwala na rzucenie zaklęcia ochronnego. Jednocześnie miecz umożliwia rozproszenie magicznych osłon przeciwnika, co sprawia, że jest koszmarem każdego wrogiego maga.
+
+PARAMETRY:
+
+Obrażenia: 1K12 +2
+TraK0: +2
+Typ obrażeń: sieczne
+Specjalne:
+ +20% do odporności na magię
+ Pozwala rzucać Odchylenie czaru (raz dziennie)
+ Pozwala rzucać Uderzenie czaru (raz dziennie)
+Waga: 11
+Opóźnienie: 6
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+Wymagana siła: 14
+~
+@10014 = ~Włócznia smoka +2
+
+Jest to oręż szczególnie potężny w walce ze smokami. Wykonana niegdyś w ogniu słynnego smoka Meliadusa, ta włócznia posiada niezwykłe właściwości. Powiadają, że w ciągu wieków skąpała się we krwi niezliczonych smoków. Może to ta wiedza, a może specjalna magia sprawia, że władający włócznią czuje się silniejszy i niemal niezwyciężony, nie ulegając strachowi, jaki normalnie wywołuje obecność smoka. 
+Należy przy tym wspomnieć, że z powodu uczucia nadmiernej pewności siebie, które zapewnia włócznia, posługujący się nią wojownik zaczyna lekceważyć przeciwników i walczy nieco nonszalancko.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2, +5 przeciwko smokom
+TraK0: +3
+Typ obrażeń: kłute
+Specjalne:
+ Ochrona przed strachem
+ +1 do Siły
+ -1 do Zręczności
+Waga: 5
+Opóźnienie: 5
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@10015 = ~Długi miecz +2: 'Ostrze Róż'
+
+Ten miecz ma nieziemski wygląd i prawdopodobnie do jego stworzenia przyczyniła się Sune, bogini piękna i namiętności. Natychmiast wywiera efekt na swym właścicielu, i niejednokrotnie miecz ten stał za wielką popularnością zwykłego żołnierza na dworze królewskim.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +2
+TraK0: +4
+Typ obrażeń: sieczne
+Specjalne:
+ +2 do Charyzmy
+ +2 do Siły
+Waga: 3
+Opóźnienie: 2
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@10016 = ~Łuk Elsasa Eladamri +3
+
+Jest to słynny runiczny łuk elfa Elsasa Eladamri, legendy Krynn, który niekiedy gościł też na Wybrzeżu Mieczy. Celowanie przy użyciu tego łuku niesamowicie łatwe. Dodatkowo zdaje się on zapewniać odporność na niektóre rodzaje ataków. Posiadanie tego runicznego łuku jest marzeniem każdego łucznika.
+
+PARAMETRY:
+
+TraK0: +3
+Specjalne:
+ +3 obrażeń od magii 
+ Raz dziennie może podnieść celność łuku o dodatkowe +7 do trafienia na 9 sekund
+Waga: 7
+Opóźnienie: 4
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+Wymagana siła: 18
+ ~
+@10017 = ~Jest to pierwsze z Czarnych ostrzy klęski. Zostało stworzone przez maga Daraknora - jednego z niewielu, którzy pojmowali magię zawartą w tym mieczu. Ostrze jest tak naprawdę szczeliną międzysferową. Moc w nim zawarta jest ogromna - przy odrobinie szczęścia władający mieczem może powalić wroga jednym uderzeniem. Dodatkowo trafienie tym mieczem może uleczyć właściciela. Wielka moc wiąże się jednak z wielkimi niebezpieczeństwami. Jako że uderzenie ostrzem wywołuje rozdarcie w planach, może się zdarzyć, że jego właściciel na krótki czas trafi do innej sfery. W podobny, choć niewyjaśniony sposób, udane trafienie tym mieczem może przywołać istotę z innej sfery, która zaatakuje jego właściciela.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +3, +1 od magii
+TraK0: +5
+Typ obrażeń: sieczne
+Specjalne:
+ 5% szansa na natychmiastowe zabicie przeciwnika
+ 10% szansa na rzucenie Leczenia lekich ran na właściciela
+ 7% szansa na rzucenie Labiryntu na właściciela
+ 11% szansa na przywołanie żywiołaka ognia
+ 13% szansa na przywołanie żywiołaka powietrza
+ 15% szansa na przywołanie żywiołaka ziemi
+Waga: 5
+Opóźnienie: 1
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@10018 = ~Miecz został stworzony przez legendarnego wojownika-maga o imieniu Tandos Anegh. Zaprojektowano go tak, by mógł być używany w bitwie przez maga chroniąc go jednocześnie. Oręż zwany jest Mieczem Ziemi, jako że wywiera kojący wpływ na użytkownika i sprawia, że jego decyzje są zdeterminowane nie przez emocje, ale przez umysł. Mag, który wszedł w posiadanie tej broni może uważać się za szczęśliwca. Miecz został ponadto udoskonalony odłamkiem magicznego zwierciadła i posiada teraz moc absorbowania zaklęć miotanych przez wrogów.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +3, +2 od magii
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ +3 do Klasy Pancerza
+ Odporność na strach
+ Pozwala zapamiętać po jednym dodatkowym zaklęciu z 4. i 6. poziomu
+ Użytkownik włada tym mieczem jak Wielki Mistrz
+ Użytkownik znajduje się pod wpływem Mniejszego odchylenia czaru
+Waga: 15
+Opóźnienie: 10
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@10019 = ~Miecz został stworzony przez legendarnego wojownika-maga o imieniu Tandos Anegh. Zaprojektowano go tak, by mógł być używany w bitwie przez maga chroniąc go jednocześnie. Oręż zwany jest Mieczem Ziemi, jako że wywiera kojący wpływ na użytkownika i sprawia, że jego decyzje są zdeterminowane nie przez emocje, ale przez umysł. Mag, który wszedł w posiadanie tej broni może uważać się za szczęśliwca.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +2, +1 od magii
+TraK0: +5
+Typ obrażeń: sieczne
+Specjalne:
+ +3 do Klasy Pancerza
+ Odporność na strach
+ Pozwala zapamiętać po jednym dodatkowym zaklęciu z 4. i 6. poziomu
+ Użytkownik włada tym mieczem jak Wielki Mistrz
+Waga: 15
+Opóźnienie: 10
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@99996 = ~Szkoda. Zatem wszyscy zginiecie, a potem cały wolny świat!~
+@99997 = ~Nigdy się nie poddamy!~
+@99998 = ~To wasza ostatnia szansa - poddajcie się! Inaczej wszyscy umrzecie!~
+@99999 = ~*Logged*~
