@@ -62,7 +62,7 @@ THEN
     RealSetGlobalTimer("ZRemoveMagic","LOCALS",5)
     RealSetGlobalTimer("ZInvisiblePerson","LOCALS",5)
     RealSetGlobalTimer("ZTalentAngriff","LOCALS",10)
-    SetGlobalTimer("ZRegenerateSchutz","GLOBAL",2400)
+    SetGlobalTimer("ZRegenerateSchutz","LOCALS",2400)
 END
 
 IF
